@@ -13,11 +13,4 @@ data/processed/
 
 
 
-Recommended dataset direction:
-
-```text
-- TUM RGB-D for real-time visual perception and visual odometry context
-- KITTI for autonomous perception, object detection, tracking, and driving-scene decision context
-- COCO/Open Images only if the evaluation narrows to object-detection classes rather than robotic navigation
-```
 
