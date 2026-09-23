@@ -1,0 +1,7 @@
+dimension,metric,source,chapter_four_use
+perception_quality,confidence distribution,model detections or annotated dataset,findings and analysis
+perception_quality,precision/recall or IoU,only if labels are available,findings and analysis
+real_time_feasibility,latency_ms,local experiment run log,analysis
+real_time_feasibility,frames_per_second,local experiment run log,analysis
+decision_reliability,action_state_consistency,decision-rule output across frames,discussion
+robustness,failure_case_type,manual review of low-confidence or unstable frames,discussion

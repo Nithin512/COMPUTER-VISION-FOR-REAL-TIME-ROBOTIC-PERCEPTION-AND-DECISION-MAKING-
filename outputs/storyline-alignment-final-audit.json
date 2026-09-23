@@ -1,0 +1,59 @@
+{
+  "docx": "outputs\\Project_7_Nithin_Final_Dissertation.docx",
+  "body_source": ".codex_work\\project7_body.md",
+  "word_count": 15130,
+  "section_words": {
+    "introduction": 1372,
+    "literature": 4760,
+    "methodology": 2187,
+    "chapter_four": 3620,
+    "conclusion": 668
+  },
+  "checks": {
+    "storyline_connected": {
+      "introduction_sets_problem_aim_objectives_rqs_scope": true,
+      "literature_builds_gap_and_evaluation_need": true,
+      "methodology_matches_research_design": true,
+      "chapter_four_reports_and_interprets_method_results": true,
+      "conclusion_answers_all_rqs": true
+    },
+    "objectives_aligned": {
+      "review_objective": true,
+      "metric_objective": true,
+      "dataset_objective": true,
+      "model_tradeoff_objective": true,
+      "limitation_objective": true
+    },
+    "results_trace_to_conclusion": {
+      "0.723": true,
+      "0.731": true,
+      "0.727": true,
+      "0.760": true,
+      "0.925": true,
+      "0.203 FPS": true,
+      "9.520 FPS": true,
+      "0.298 F1": true
+    },
+    "citations_rechecked": {
+      "Lin et al., 2014": true,
+      "Geiger et al., 2012": true,
+      "Sturm et al., 2012": true,
+      "Liu et al., 2016": true,
+      "Howard et al., 2019": true,
+      "Sandler et al., 2018": true
+    },
+    "language_clean": {
+      "no_internal_meta_terms": true,
+      "no_autonomy_overclaim": true
+    },
+    "figures_tables_formatting": {
+      "docx_tables": true,
+      "docx_images": true,
+      "render_pages": true,
+      "no_blank_pages": true,
+      "no_bad_dimensions": true,
+      "no_edge_warnings": true
+    }
+  },
+  "overall_pass": true
+}

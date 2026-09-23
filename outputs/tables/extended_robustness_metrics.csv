@@ -1,0 +1,13 @@
+model,model_label,condition,threshold,sample_images,precision,recall,f1,mean_iou,mean_latency_ms,false_positives,false_negatives
+high_accuracy,Faster R-CNN ResNet50-FPN v2,original,0.7,20,0.6765,0.6667,0.6715,0.8388,4625.465,44,46
+high_accuracy,Faster R-CNN ResNet50-FPN v2,brightness_low,0.7,20,0.7422,0.6884,0.7143,0.8356,4703.541,33,43
+high_accuracy,Faster R-CNN ResNet50-FPN v2,brightness_high,0.7,20,0.72,0.6522,0.6844,0.8325,4697.37,35,48
+high_accuracy,Faster R-CNN ResNet50-FPN v2,blur,0.7,20,0.7253,0.4783,0.5764,0.8432,4611.106,25,72
+high_accuracy,Faster R-CNN ResNet50-FPN v2,noise,0.7,20,0.7227,0.6232,0.6693,0.8375,4744.28,33,52
+high_accuracy,Faster R-CNN ResNet50-FPN v2,occlusion,0.7,20,0.6119,0.5942,0.6029,0.8238,4889.956,52,56
+lightweight,SSDlite320 MobileNetV3-Large,original,0.5,20,0.7895,0.2174,0.3409,0.8249,120.583,8,108
+lightweight,SSDlite320 MobileNetV3-Large,brightness_low,0.5,20,0.8205,0.2319,0.3616,0.8167,97.505,7,106
+lightweight,SSDlite320 MobileNetV3-Large,brightness_high,0.5,20,0.7692,0.2174,0.339,0.8329,102.642,9,108
+lightweight,SSDlite320 MobileNetV3-Large,blur,0.5,20,0.8125,0.1884,0.3059,0.8159,106.259,6,112
+lightweight,SSDlite320 MobileNetV3-Large,noise,0.5,20,0.7949,0.2246,0.3503,0.8161,132.118,8,107
+lightweight,SSDlite320 MobileNetV3-Large,occlusion,0.5,20,0.7714,0.1957,0.3121,0.8186,102.376,8,111

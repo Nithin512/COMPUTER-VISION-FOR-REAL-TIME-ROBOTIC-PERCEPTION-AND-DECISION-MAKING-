@@ -1,0 +1,7 @@
+{
+  "model": "high_accuracy",
+  "label": "Faster R-CNN ResNet50-FPN v2",
+  "family": "accuracy-oriented two-stage detector",
+  "source": "https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn_v2.html",
+  "condition": "original"
+}

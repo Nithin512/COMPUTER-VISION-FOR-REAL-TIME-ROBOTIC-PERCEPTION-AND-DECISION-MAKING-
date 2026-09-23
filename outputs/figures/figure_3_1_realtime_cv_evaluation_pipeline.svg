@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="310" viewBox="0 0 1240 310" role="img" aria-label="Real-Time Computer Vision Evaluation Pipeline">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#486581"/>
+    </marker>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #183B56; }
+      .subtitle { font: 400 13px Arial, sans-serif; fill: #52606D; }
+      .box { fill: #F4F6F8; stroke: #BCCCDC; stroke-width: 1.4; rx: 8; ry: 8; }
+      .box2 { fill: #EAF2F8; stroke: #BCCCDC; stroke-width: 1.4; rx: 8; ry: 8; }
+      .label { font: 700 14px Arial, sans-serif; fill: #1F2933; }
+      .small { font: 400 12px Arial, sans-serif; fill: #52606D; }
+      .line { fill: none; stroke: #486581; stroke-width: 1.5; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1240" height="310" fill="#FFFFFF"/>
+  <text class="title" x="40" y="48">Real-Time Computer Vision Evaluation Pipeline</text>
+
+  <text class="subtitle" x="40" y="72">Methodology figure for linking visual perception outputs to robotic decision-making metrics.</text>
+  <rect class="box" x="40" y="105" width="165" height="88"/>
+  <text class="label" x="56" y="139">Image Stream</text>
+  <text class="small" x="56" y="163">Public dataset frames</text>
+  <path class="line" d="M 205 149 L 235 149"/>
+  <rect class="box" x="235" y="105" width="165" height="88"/>
+  <text class="label" x="251" y="139">Pre-processing</text>
+  <text class="small" x="251" y="163">Resize, normalise, filter</text>
+  <path class="line" d="M 400 149 L 430 149"/>
+  <rect class="box2" x="430" y="105" width="165" height="88"/>
+  <text class="label" x="446" y="139">Perception Model</text>
+  <text class="small" x="446" y="163">Objects, regions, motion cues</text>
+  <path class="line" d="M 595 149 L 625 149"/>
+  <rect class="box" x="625" y="105" width="165" height="88"/>
+  <text class="label" x="641" y="139">Temporal Reasoning</text>
+  <text class="small" x="641" y="163">Tracking and consistency</text>
+  <path class="line" d="M 790 149 L 820 149"/>
+  <rect class="box2" x="820" y="105" width="165" height="88"/>
+  <text class="label" x="836" y="139">Decision Rule</text>
+  <text class="small" x="836" y="163">Confidence and risk state</text>
+  <path class="line" d="M 985 149 L 1015 149"/>
+  <rect class="box" x="1015" y="105" width="165" height="88"/>
+  <text class="label" x="1031" y="139">Action Policy</text>
+  <text class="small" x="1031" y="163">Proceed, slow, stop, inspect</text>
+  <rect x="40" y="230" width="1160" height="42" fill="#F4F6F8" stroke="#BCCCDC" stroke-width="1.2" rx="8" ry="8"/>
+  <text class="small" x="58" y="256">Outputs: latency, frames per second, detection confidence, temporal stability, decision consistency, and failure-case evidence.</text>
+</svg>

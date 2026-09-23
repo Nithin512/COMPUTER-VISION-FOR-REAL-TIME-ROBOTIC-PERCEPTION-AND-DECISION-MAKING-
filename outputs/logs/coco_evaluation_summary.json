@@ -1,0 +1,35 @@
+{
+  "dataset": "COCO val2017 robotically salient medium/large-object subset",
+  "dataset_source": "https://cocodataset.org/",
+  "annotation_source": "http://images.cocodataset.org/annotations/annotations_trainval2017.zip",
+  "model": "torchvision fasterrcnn_resnet50_fpn_v2 COCO_V1",
+  "model_source": "https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn_v2.html",
+  "class_scope": "decision_only",
+  "target_categories": [
+    "bicycle",
+    "bus",
+    "car",
+    "motorcycle",
+    "person",
+    "stop sign",
+    "traffic light",
+    "truck"
+  ],
+  "subset_rule": "non-crowd target-category objects with annotation area >= 2500 pixels",
+  "sample_images": 16,
+  "score_threshold": 0.95,
+  "total_ground_truth_objects": 115,
+  "total_detections": 121,
+  "total_matched_detections": 81,
+  "micro_precision": 0.6694,
+  "micro_recall": 0.7043,
+  "micro_f1": 0.6864,
+  "mean_iou_matched": 0.8629,
+  "mean_latency_ms": 9680.031,
+  "median_latency_ms": 9588.653,
+  "mean_fps": 0.103,
+  "decision_state_counts": {
+    "stop": 16
+  },
+  "final_findings_ready": true
+}

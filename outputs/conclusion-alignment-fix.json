@@ -1,0 +1,9 @@
+{
+  "word_count": 14340,
+  "tables": 10,
+  "images": 10,
+  "docx": "outputs\\Project_7_Nithin_Final_Dissertation.docx",
+  "body_source": ".codex_work\\project7_body.md",
+  "updated_conclusion_source": ".codex_work\\updated_sections\\conclusion.md",
+  "rq_labels_in_conclusion": true
+}

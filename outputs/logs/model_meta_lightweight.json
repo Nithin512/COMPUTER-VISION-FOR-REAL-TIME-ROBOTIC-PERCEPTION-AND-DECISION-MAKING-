@@ -1,0 +1,7 @@
+{
+  "model": "lightweight",
+  "label": "SSDlite320 MobileNetV3-Large",
+  "family": "lightweight single-shot detector",
+  "source": "https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.ssdlite320_mobilenet_v3_large.html",
+  "condition": "original"
+}

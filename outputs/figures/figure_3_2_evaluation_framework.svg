@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="360" viewBox="0 0 1240 360" role="img" aria-label="Evaluation Framework for Robotic Perception">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#486581"/>
+    </marker>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #183B56; }
+      .subtitle { font: 400 13px Arial, sans-serif; fill: #52606D; }
+      .box { fill: #F4F6F8; stroke: #BCCCDC; stroke-width: 1.4; rx: 8; ry: 8; }
+      .box2 { fill: #EAF2F8; stroke: #BCCCDC; stroke-width: 1.4; rx: 8; ry: 8; }
+      .label { font: 700 14px Arial, sans-serif; fill: #1F2933; }
+      .small { font: 400 12px Arial, sans-serif; fill: #52606D; }
+      .line { fill: none; stroke: #486581; stroke-width: 1.5; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="1240" height="360" fill="#FFFFFF"/>
+  <text class="title" x="40" y="48">Evaluation Framework for Robotic Perception</text>
+
+  <text class="subtitle" x="40" y="72">Quality dimensions used to judge whether visual perception can support timely robotic decisions.</text>
+  <rect x="455" y="250" width="330" height="58" fill="#EAF2F8" stroke="#BCCCDC" stroke-width="1.4" rx="8" ry="8"/>
+  <text class="label" x="505" y="284">Decision-making readiness judgement</text>
+  <rect class="box" x="70" y="115" width="215" height="86"/>
+  <text class="label" x="88" y="149">Perception Quality</text>
+  <text class="small" x="88" y="173">confidence, IoU, precision, recall</text>
+  <path class="line" d="M 178 201 C 178 230 620 230 620 250"/>
+  <rect class="box" x="365" y="115" width="215" height="86"/>
+  <text class="label" x="383" y="149">Real-Time Feasibility</text>
+  <text class="small" x="383" y="173">latency, FPS, processing variance</text>
+  <path class="line" d="M 473 201 C 473 230 620 230 620 250"/>
+  <rect class="box" x="660" y="115" width="215" height="86"/>
+  <text class="label" x="678" y="149">Decision Reliability</text>
+  <text class="small" x="678" y="173">risk state, action consistency</text>
+  <path class="line" d="M 768 201 C 768 230 620 230 620 250"/>
+  <rect class="box" x="955" y="115" width="215" height="86"/>
+  <text class="label" x="973" y="149">Robustness</text>
+  <text class="small" x="973" y="173">lighting, clutter, motion, occlusion</text>
+  <path class="line" d="M 1063 201 C 1063 230 620 230 620 250"/>
+</svg>

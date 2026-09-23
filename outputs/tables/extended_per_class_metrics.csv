@@ -1,0 +1,97 @@
+model,model_label,threshold,is_best,class,gt,pred,matched,precision,recall,f1,mean_iou
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,person,669,915,548,0.5989,0.8191,0.6919,0.8266
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,bicycle,71,85,48,0.5647,0.6761,0.6154,0.777
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,car,296,406,248,0.6108,0.8378,0.7066,0.8393
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,motorcycle,84,115,72,0.6261,0.8571,0.7236,0.8116
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,bus,57,57,49,0.8596,0.8596,0.8596,0.9012
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,truck,81,72,42,0.5833,0.5185,0.549,0.8554
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,traffic light,124,159,88,0.5535,0.7097,0.6219,0.7614
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,stop sign,28,31,26,0.8387,0.9286,0.8814,0.9362
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,person,669,816,538,0.6593,0.8042,0.7246,0.828
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,bicycle,71,74,46,0.6216,0.6479,0.6345,0.777
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,car,296,363,236,0.6501,0.7973,0.7162,0.8451
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,motorcycle,84,101,70,0.6931,0.8333,0.7568,0.8158
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,bus,57,52,48,0.9231,0.8421,0.8807,0.9001
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,truck,81,60,39,0.65,0.4815,0.5532,0.861
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,traffic light,124,143,83,0.5804,0.6694,0.6217,0.7669
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,stop sign,28,30,26,0.8667,0.9286,0.8966,0.9362
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,person,669,718,517,0.7201,0.7728,0.7455,0.8328
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,bicycle,71,60,43,0.7167,0.6056,0.6565,0.7838
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,car,296,310,220,0.7097,0.7432,0.7261,0.8476
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,motorcycle,84,92,66,0.7174,0.7857,0.75,0.8191
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,bus,57,51,48,0.9412,0.8421,0.8889,0.9001
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,truck,81,47,34,0.7234,0.4198,0.5312,0.8774
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,traffic light,124,121,78,0.6446,0.629,0.6367,0.771
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,stop sign,28,26,24,0.9231,0.8571,0.8889,0.9377
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,person,669,600,473,0.7883,0.707,0.7455,0.8417
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,bicycle,71,50,41,0.82,0.5775,0.6777,0.7879
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,car,296,257,200,0.7782,0.6757,0.7233,0.8518
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,motorcycle,84,78,60,0.7692,0.7143,0.7407,0.8278
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,bus,57,49,46,0.9388,0.807,0.8679,0.9006
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,truck,81,38,29,0.7632,0.358,0.4874,0.8943
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,traffic light,124,96,68,0.7083,0.5484,0.6182,0.772
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,stop sign,28,26,24,0.9231,0.8571,0.8889,0.9377
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,person,669,471,403,0.8556,0.6024,0.707,0.854
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,bicycle,71,37,33,0.8919,0.4648,0.6111,0.7839
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,car,296,192,164,0.8542,0.5541,0.6721,0.8557
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,motorcycle,84,61,54,0.8852,0.6429,0.7448,0.8292
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,bus,57,45,44,0.9778,0.7719,0.8627,0.9018
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,truck,81,27,23,0.8519,0.284,0.4259,0.9103
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,traffic light,124,70,53,0.7571,0.4274,0.5464,0.7811
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,stop sign,28,24,23,0.9583,0.8214,0.8846,0.9424
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,person,669,371,334,0.9003,0.4993,0.6423,0.8651
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,bicycle,71,30,28,0.9333,0.3944,0.5545,0.7926
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,car,296,141,132,0.9362,0.4459,0.6041,0.8643
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,motorcycle,84,45,43,0.9556,0.5119,0.6667,0.8478
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,bus,57,40,39,0.975,0.6842,0.8041,0.9037
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,truck,81,18,16,0.8889,0.1975,0.3232,0.9167
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,traffic light,124,44,34,0.7727,0.2742,0.4048,0.7943
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,stop sign,28,22,21,0.9545,0.75,0.84,0.9475
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,person,669,162,130,0.8025,0.1943,0.3129,0.8064
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,bicycle,71,17,12,0.7059,0.169,0.2727,0.7858
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,car,296,43,27,0.6279,0.0912,0.1593,0.8095
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,motorcycle,84,34,29,0.8529,0.3452,0.4915,0.7899
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,bus,57,26,26,1.0,0.4561,0.6265,0.8965
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,truck,81,17,15,0.8824,0.1852,0.3061,0.8787
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,traffic light,124,2,2,1.0,0.0161,0.0317,0.7457
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,stop sign,28,18,17,0.9444,0.6071,0.7391,0.9095
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,person,669,134,114,0.8507,0.1704,0.2839,0.8152
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,bicycle,71,13,10,0.7692,0.1408,0.2381,0.8178
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,car,296,35,24,0.6857,0.0811,0.145,0.8412
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,motorcycle,84,31,27,0.871,0.3214,0.4696,0.7968
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,bus,57,25,25,1.0,0.4386,0.6098,0.8955
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,truck,81,15,13,0.8667,0.1605,0.2708,0.8864
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,traffic light,124,1,1,1.0,0.0081,0.016,0.8214
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,stop sign,28,18,17,0.9444,0.6071,0.7391,0.9095
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,person,669,106,91,0.8585,0.136,0.2348,0.8212
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,bicycle,71,10,9,0.9,0.1268,0.2222,0.839
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,car,296,28,20,0.7143,0.0676,0.1235,0.8464
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,motorcycle,84,22,21,0.9545,0.25,0.3962,0.833
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,bus,57,22,22,1.0,0.386,0.557,0.9107
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,truck,81,14,12,0.8571,0.1481,0.2526,0.9054
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,traffic light,124,1,1,1.0,0.0081,0.016,0.8214
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,stop sign,28,18,17,0.9444,0.6071,0.7391,0.9095
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,person,669,90,80,0.8889,0.1196,0.2108,0.8278
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,bicycle,71,9,9,1.0,0.1268,0.225,0.839
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,car,296,21,16,0.7619,0.0541,0.1009,0.8825
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,motorcycle,84,19,18,0.9474,0.2143,0.3495,0.8368
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,bus,57,21,21,1.0,0.3684,0.5385,0.9193
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,truck,81,10,9,0.9,0.1111,0.1978,0.9037
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,traffic light,124,0,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,stop sign,28,17,17,1.0,0.6071,0.7556,0.9095
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,person,669,58,57,0.9828,0.0852,0.1568,0.8431
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,bicycle,71,8,8,1.0,0.1127,0.2025,0.866
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,car,296,12,12,1.0,0.0405,0.0779,0.8875
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,motorcycle,84,14,13,0.9286,0.1548,0.2653,0.8676
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,bus,57,18,18,1.0,0.3158,0.48,0.9198
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,truck,81,8,7,0.875,0.0864,0.1573,0.8987
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,traffic light,124,0,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,stop sign,28,15,15,1.0,0.5357,0.6977,0.9182
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,person,669,45,45,1.0,0.0673,0.1261,0.8427
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,bicycle,71,6,6,1.0,0.0845,0.1558,0.8853
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,car,296,7,7,1.0,0.0236,0.0462,0.8912
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,motorcycle,84,9,9,1.0,0.1071,0.1935,0.8607
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,bus,57,15,15,1.0,0.2632,0.4167,0.9284
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,truck,81,7,6,0.8571,0.0741,0.1364,0.8897
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,traffic light,124,0,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,stop sign,28,15,15,1.0,0.5357,0.6977,0.9182

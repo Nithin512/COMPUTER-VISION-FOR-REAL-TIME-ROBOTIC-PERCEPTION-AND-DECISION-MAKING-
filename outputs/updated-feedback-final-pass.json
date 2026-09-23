@@ -1,0 +1,52 @@
+{
+  "docx": "outputs\\Project_7_Nithin_Final_Dissertation.docx",
+  "cmp_copy": "outputs\\Project_7_Nithin_Final_Dissertation cmp.docx",
+  "feedback_md_updated": "feedback\\professor-feedback.md",
+  "replacements_applied": [],
+  "structure": {
+    "words": 15130,
+    "tables": 10,
+    "images": 10,
+    "heading_count": 60,
+    "required_sections": {
+      "abstract": true,
+      "introduction": true,
+      "chapter_one": true,
+      "chapter_two": true,
+      "chapter_three": true,
+      "chapter_four": true,
+      "concluding_remarks": true,
+      "bibliography": true
+    },
+    "alignment_terms_present": {
+      "aim": true,
+      "objectives": true,
+      "methodology": true,
+      "results": true,
+      "discussion": true,
+      "conclusions": true
+    },
+    "blocked_terms": {
+      "professor feedback": false,
+      "high distinction": false,
+      "high-quality dissertation": false,
+      "level 7": false,
+      "/learn": false,
+      "project 7": false,
+      "artifact": false,
+      "humaniser": false,
+      "pre-human": false,
+      "should be added": false,
+      "will be completed": false,
+      "student dissertation": false,
+      "final dissertation should": false,
+      "fieldwork should": false,
+      "distinction-level": false
+    }
+  },
+  "citation_audit": {
+    "bibliography_entries": 15,
+    "checked_entries": 12,
+    "uncited_entries": []
+  }
+}

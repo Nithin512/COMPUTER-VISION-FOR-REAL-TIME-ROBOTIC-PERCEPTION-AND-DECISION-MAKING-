@@ -1,0 +1,11 @@
+metric,value
+seed,20260909
+sample_images,200
+positive_images,160
+background_images,40
+target_objects,1410
+class_counts,"{""bicycle"": 71, ""car"": 296, ""traffic light"": 124, ""person"": 669, ""bus"": 57, ""motorcycle"": 84, ""truck"": 81, ""stop sign"": 28}"
+size_counts,"{""large"": 202, ""medium"": 450, ""small"": 758}"
+ground_truth_decision_states,"{""slow"": 63, ""stop"": 92, ""proceed"": 40, ""inspect"": 5}"
+target_classes,"[""person"", ""bicycle"", ""car"", ""motorcycle"", ""bus"", ""truck"", ""traffic light"", ""stop sign""]"
+small_object_policy,"small, medium and large objects retained; no 2500-pixel exclusion applied"

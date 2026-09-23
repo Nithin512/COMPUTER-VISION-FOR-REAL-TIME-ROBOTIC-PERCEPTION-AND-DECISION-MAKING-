@@ -1,0 +1,37 @@
+model,model_label,threshold,is_best,size_bin,gt,pred,matched,precision_by_box_size,recall,f1,mean_iou
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,small,758,805,542,0.6733,0.715,0.6935,0.7847
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,medium,450,703,397,0.5647,0.8822,0.6886,0.8545
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.5,no,large,202,332,182,0.5482,0.901,0.6816,0.8997
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,small,758,688,516,0.75,0.6807,0.7137,0.7883
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,medium,450,643,390,0.6065,0.8667,0.7136,0.8552
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.6,no,large,202,308,180,0.5844,0.8911,0.7059,0.9016
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,small,758,553,475,0.859,0.6266,0.7246,0.7927
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,medium,450,582,378,0.6495,0.84,0.7326,0.8577
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,yes,large,202,290,177,0.6103,0.8762,0.7195,0.9023
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,small,758,411,404,0.983,0.533,0.6912,0.8016
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,medium,450,505,363,0.7188,0.8067,0.7602,0.8589
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.8,no,large,202,278,174,0.6259,0.8614,0.725,0.9033
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,small,758,254,297,1.1693,0.3918,0.587,0.8148
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,medium,450,406,328,0.8079,0.7289,0.7664,0.8581
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.9,no,large,202,267,172,0.6442,0.8515,0.7335,0.9033
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,small,758,155,198,1.2774,0.2612,0.4337,0.8338
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,medium,450,313,286,0.9137,0.6356,0.7497,0.8602
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.95,no,large,202,243,163,0.6708,0.8069,0.7326,0.9041
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,small,758,10,1,0.1,0.0013,0.0026,0.7131
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,medium,450,69,99,1.4348,0.22,0.3815,0.7648
+lightweight,SSDlite320 MobileNetV3-Large,0.5,yes,large,202,240,158,0.6583,0.7822,0.7149,0.861
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,small,758,7,1,0.1429,0.0013,0.0026,0.7131
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,medium,450,52,82,1.5769,0.1822,0.3267,0.7785
+lightweight,SSDlite320 MobileNetV3-Large,0.6,no,large,202,213,148,0.6948,0.7327,0.7133,0.8679
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,small,758,3,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,medium,450,27,54,2.0,0.12,0.2264,0.7969
+lightweight,SSDlite320 MobileNetV3-Large,0.7,no,large,202,191,139,0.7277,0.6881,0.7074,0.8694
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,small,758,2,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,medium,450,18,44,2.4444,0.0978,0.188,0.8125
+lightweight,SSDlite320 MobileNetV3-Large,0.8,no,large,202,167,126,0.7545,0.6238,0.6829,0.8738
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,small,758,0,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,medium,450,6,22,3.6667,0.0489,0.0965,0.8106
+lightweight,SSDlite320 MobileNetV3-Large,0.9,no,large,202,127,108,0.8504,0.5347,0.6565,0.8861
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,small,758,0,0,0.0,0.0,0.0,0.0
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,medium,450,4,17,4.25,0.0378,0.0749,0.8079
+lightweight,SSDlite320 MobileNetV3-Large,0.95,no,large,202,100,86,0.86,0.4257,0.5695,0.8898

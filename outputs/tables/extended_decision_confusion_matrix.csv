@@ -1,0 +1,33 @@
+model,model_label,threshold,actual_state,predicted_state,count
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,proceed,proceed,38
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,proceed,inspect,1
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,proceed,slow,0
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,proceed,stop,1
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,inspect,proceed,2
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,inspect,inspect,2
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,inspect,slow,1
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,inspect,stop,0
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,slow,proceed,0
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,slow,inspect,3
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,slow,slow,58
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,slow,stop,2
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,stop,proceed,0
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,stop,inspect,0
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,stop,slow,5
+high_accuracy,Faster R-CNN ResNet50-FPN v2,0.7,stop,stop,87
+lightweight,SSDlite320 MobileNetV3-Large,0.5,proceed,proceed,39
+lightweight,SSDlite320 MobileNetV3-Large,0.5,proceed,inspect,0
+lightweight,SSDlite320 MobileNetV3-Large,0.5,proceed,slow,0
+lightweight,SSDlite320 MobileNetV3-Large,0.5,proceed,stop,1
+lightweight,SSDlite320 MobileNetV3-Large,0.5,inspect,proceed,5
+lightweight,SSDlite320 MobileNetV3-Large,0.5,inspect,inspect,0
+lightweight,SSDlite320 MobileNetV3-Large,0.5,inspect,slow,0
+lightweight,SSDlite320 MobileNetV3-Large,0.5,inspect,stop,0
+lightweight,SSDlite320 MobileNetV3-Large,0.5,slow,proceed,20
+lightweight,SSDlite320 MobileNetV3-Large,0.5,slow,inspect,9
+lightweight,SSDlite320 MobileNetV3-Large,0.5,slow,slow,31
+lightweight,SSDlite320 MobileNetV3-Large,0.5,slow,stop,3
+lightweight,SSDlite320 MobileNetV3-Large,0.5,stop,proceed,2
+lightweight,SSDlite320 MobileNetV3-Large,0.5,stop,inspect,0
+lightweight,SSDlite320 MobileNetV3-Large,0.5,stop,slow,7
+lightweight,SSDlite320 MobileNetV3-Large,0.5,stop,stop,83

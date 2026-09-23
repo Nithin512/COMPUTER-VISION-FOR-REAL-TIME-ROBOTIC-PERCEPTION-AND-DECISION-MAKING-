@@ -1,0 +1,51 @@
+{
+  "docx": "outputs\\Project_7_Nithin_Final_Dissertation.docx",
+  "cmp_copy": "outputs\\Project_7_Nithin_Final_Dissertation cmp.docx",
+  "docx_replacements": [
+    "Public datasets such as COCO, KITTI and TUM RGB-D provide valuable labelled or structured mater",
+    "This framing supports Level 7 analysis because it examines why a measured score matters, what t",
+    "Single-pass detectors are usually associated with speed because they predict bounding boxes and",
+    "A high distinction analysis should not simply celebrate model accuracy; it should explain where",
+    "MobileNetV2 uses inverted residuals and linear bottlenecks to support efficient deep learning (",
+    "This balanced position is central to a high distinction dissertation because it uses technical ",
+    "A high-quality dissertation must therefore avoid universal claims and instead explain how the e"
+  ],
+  "body_replacements": [
+    "This framing supports Level 7 analysis because it examines why a measured score matters, what t",
+    "A high distinction analysis should not simply celebrate model accuracy; it should explain where",
+    "This balanced position is central to a high distinction dissertation because it uses technical ",
+    "A high-quality dissertation must therefore avoid universal claims and instead explain how the e",
+    "Public datasets such as COCO, KITTI and TUM RGB-D provide valuable labelled or structured mater",
+    "Single-pass detectors are usually associated with speed because they predict bounding boxes and",
+    "MobileNetV2 uses inverted residuals and linear bottlenecks to support efficient deep learning ("
+  ],
+  "word_count": 14810,
+  "tables": 10,
+  "images": 10,
+  "meta_flags": {
+    "professor feedback": false,
+    "high distinction": false,
+    "high-quality dissertation": false,
+    "level 7": false,
+    "/learn": false,
+    "project 7": false,
+    "artifact": false,
+    "humaniser": false,
+    "pre-human": false,
+    "should be added": false,
+    "will be completed": false,
+    "student dissertation": false,
+    "final dissertation should": false,
+    "fieldwork should": false,
+    "distinction-level": false
+  },
+  "citation_audit": {
+    "bibliography_entries_visible": 15,
+    "targeted_sources_cited": {
+      "Geiger 2012": true,
+      "Howard 2019": true,
+      "Liu 2016": true
+    },
+    "uncited_targeted_sources": []
+  }
+}

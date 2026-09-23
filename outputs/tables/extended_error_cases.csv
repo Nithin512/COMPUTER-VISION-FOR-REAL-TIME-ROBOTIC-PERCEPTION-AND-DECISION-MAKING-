@@ -1,0 +1,1200 @@
+file_name,error_type,category,score,size_bin,iou,model,threshold
+000000157365.jpg,false_positive,car,0.7532,medium,,high_accuracy,0.7
+000000157365.jpg,false_positive,traffic light,0.7452,small,,high_accuracy,0.7
+000000157365.jpg,false_positive,car,0.7427,medium,,high_accuracy,0.7
+000000157365.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000157365.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000157365.jpg,false_negative,traffic light,,medium,,high_accuracy,0.7
+000000157365.jpg,poor_localisation,car,0.9952,medium,0.5903,high_accuracy,0.7
+000000507797.jpg,false_positive,person,0.8866,small,,high_accuracy,0.7
+000000507797.jpg,false_positive,car,0.8291,small,,high_accuracy,0.7
+000000507797.jpg,false_positive,person,0.7317,small,,high_accuracy,0.7
+000000507797.jpg,false_positive,car,0.7033,small,,high_accuracy,0.7
+000000507797.jpg,false_negative,bus,,large,,high_accuracy,0.7
+000000507797.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000507797.jpg,poor_localisation,person,0.9968,medium,0.6091,high_accuracy,0.7
+000000177934.jpg,false_positive,car,0.8506,medium,,high_accuracy,0.7
+000000177934.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000177934.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000177934.jpg,poor_localisation,car,0.9244,small,0.5928,high_accuracy,0.7
+000000572555.jpg,false_positive,traffic light,0.9451,medium,,high_accuracy,0.7
+000000572555.jpg,false_positive,bicycle,0.7495,small,,high_accuracy,0.7
+000000572555.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000572555.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000572555.jpg,false_negative,traffic light,,medium,,high_accuracy,0.7
+000000135670.jpg,false_positive,bicycle,0.8431,large,,high_accuracy,0.7
+000000319607.jpg,false_positive,traffic light,0.8238,small,,high_accuracy,0.7
+000000319607.jpg,false_positive,person,0.7845,small,,high_accuracy,0.7
+000000319607.jpg,false_positive,traffic light,0.7019,small,,high_accuracy,0.7
+000000319607.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000319607.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000319607.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000319607.jpg,false_negative,bus,,medium,,high_accuracy,0.7
+000000122166.jpg,false_positive,bicycle,0.9674,large,,high_accuracy,0.7
+000000122166.jpg,false_positive,car,0.9474,small,,high_accuracy,0.7
+000000122166.jpg,false_positive,person,0.9409,small,,high_accuracy,0.7
+000000122166.jpg,false_positive,car,0.8006,small,,high_accuracy,0.7
+000000122166.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000122166.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000122166.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000122166.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000122166.jpg,poor_localisation,traffic light,0.8634,small,0.6311,high_accuracy,0.7
+000000122166.jpg,poor_localisation,person,0.8393,small,0.5466,high_accuracy,0.7
+000000122166.jpg,poor_localisation,traffic light,0.8036,small,0.5169,high_accuracy,0.7
+000000200667.jpg,false_positive,truck,0.9288,large,,high_accuracy,0.7
+000000115946.jpg,false_positive,traffic light,0.9766,medium,,high_accuracy,0.7
+000000115946.jpg,false_positive,traffic light,0.9725,medium,,high_accuracy,0.7
+000000115946.jpg,false_positive,traffic light,0.9272,medium,,high_accuracy,0.7
+000000115946.jpg,false_positive,traffic light,0.7313,small,,high_accuracy,0.7
+000000115946.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000115946.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000115946.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000219271.jpg,false_positive,person,0.9792,small,,high_accuracy,0.7
+000000219271.jpg,false_positive,person,0.9765,medium,,high_accuracy,0.7
+000000219271.jpg,false_positive,truck,0.9697,large,,high_accuracy,0.7
+000000219271.jpg,false_positive,person,0.9411,medium,,high_accuracy,0.7
+000000219271.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000219271.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000219271.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000219271.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000219271.jpg,poor_localisation,person,0.7329,small,0.5892,high_accuracy,0.7
+000000125778.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000008211.jpg,false_positive,motorcycle,0.9963,large,,high_accuracy,0.7
+000000008211.jpg,false_positive,motorcycle,0.9425,large,,high_accuracy,0.7
+000000008211.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000476704.jpg,false_positive,traffic light,0.9568,small,,high_accuracy,0.7
+000000476704.jpg,false_positive,traffic light,0.7219,small,,high_accuracy,0.7
+000000476704.jpg,false_positive,car,0.7047,small,,high_accuracy,0.7
+000000476704.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000333745.jpg,false_positive,person,0.9916,large,,high_accuracy,0.7
+000000333745.jpg,false_positive,car,0.81,large,,high_accuracy,0.7
+000000333745.jpg,false_positive,person,0.744,medium,,high_accuracy,0.7
+000000509451.jpg,false_positive,person,0.997,large,,high_accuracy,0.7
+000000509451.jpg,false_positive,person,0.9945,large,,high_accuracy,0.7
+000000509451.jpg,false_positive,person,0.9888,medium,,high_accuracy,0.7
+000000509451.jpg,false_positive,person,0.7297,large,,high_accuracy,0.7
+000000509451.jpg,false_negative,person,,large,,high_accuracy,0.7
+000000283038.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000100723.jpg,false_positive,person,0.992,large,,high_accuracy,0.7
+000000100723.jpg,false_positive,person,0.9455,large,,high_accuracy,0.7
+000000100723.jpg,false_positive,person,0.9283,large,,high_accuracy,0.7
+000000100723.jpg,false_positive,car,0.9024,small,,high_accuracy,0.7
+000000100723.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000100723.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000100723.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000100723.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000100723.jpg,poor_localisation,person,0.7669,medium,0.613,high_accuracy,0.7
+000000033759.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000033759.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000508370.jpg,false_positive,person,0.9848,medium,,high_accuracy,0.7
+000000508370.jpg,poor_localisation,person,0.9983,large,0.6219,high_accuracy,0.7
+000000221754.jpg,false_positive,car,0.9309,medium,,high_accuracy,0.7
+000000221754.jpg,false_positive,traffic light,0.7916,medium,,high_accuracy,0.7
+000000221754.jpg,false_positive,traffic light,0.7318,small,,high_accuracy,0.7
+000000221754.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000221754.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000221754.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000221754.jpg,false_negative,truck,,medium,,high_accuracy,0.7
+000000221754.jpg,poor_localisation,person,0.9877,small,0.5223,high_accuracy,0.7
+000000221754.jpg,poor_localisation,person,0.7531,small,0.6474,high_accuracy,0.7
+000000028993.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000028993.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000028993.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000028993.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000333697.jpg,false_positive,stop sign,0.9817,large,,high_accuracy,0.7
+000000333697.jpg,false_negative,stop sign,,medium,,high_accuracy,0.7
+000000291791.jpg,false_positive,person,0.7148,medium,,high_accuracy,0.7
+000000000724.jpg,false_positive,truck,0.9695,medium,,high_accuracy,0.7
+000000000724.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000000724.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000463522.jpg,false_positive,person,0.8984,small,,high_accuracy,0.7
+000000463522.jpg,false_positive,motorcycle,0.8078,small,,high_accuracy,0.7
+000000463522.jpg,false_positive,person,0.7941,small,,high_accuracy,0.7
+000000463522.jpg,false_positive,person,0.7926,small,,high_accuracy,0.7
+000000463522.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000463522.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000463522.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000463522.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000463522.jpg,poor_localisation,person,0.8197,small,0.5384,high_accuracy,0.7
+000000463522.jpg,poor_localisation,person,0.7823,small,0.586,high_accuracy,0.7
+000000121497.jpg,false_positive,person,0.8751,large,,high_accuracy,0.7
+000000121497.jpg,false_positive,person,0.7609,small,,high_accuracy,0.7
+000000121497.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000121497.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000121497.jpg,poor_localisation,person,0.9817,large,0.5946,high_accuracy,0.7
+000000441586.jpg,false_positive,truck,0.9177,medium,,high_accuracy,0.7
+000000441586.jpg,false_positive,person,0.873,small,,high_accuracy,0.7
+000000441586.jpg,false_positive,person,0.7993,small,,high_accuracy,0.7
+000000441586.jpg,false_positive,truck,0.7902,medium,,high_accuracy,0.7
+000000441586.jpg,false_negative,motorcycle,,large,,high_accuracy,0.7
+000000441586.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000441586.jpg,poor_localisation,bicycle,0.9157,medium,0.6466,high_accuracy,0.7
+000000032334.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000032334.jpg,poor_localisation,person,0.9943,small,0.6222,high_accuracy,0.7
+000000146667.jpg,false_positive,person,0.8931,medium,,high_accuracy,0.7
+000000146667.jpg,false_positive,person,0.746,medium,,high_accuracy,0.7
+000000146667.jpg,false_positive,person,0.7424,medium,,high_accuracy,0.7
+000000146667.jpg,false_positive,person,0.7299,medium,,high_accuracy,0.7
+000000146667.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000146667.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000146667.jpg,poor_localisation,person,0.8765,small,0.5737,high_accuracy,0.7
+000000124277.jpg,false_positive,car,0.8454,small,,high_accuracy,0.7
+000000124277.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000124277.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000124277.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000124277.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000011122.jpg,false_positive,car,0.9214,small,,high_accuracy,0.7
+000000011122.jpg,false_positive,stop sign,0.8305,medium,,high_accuracy,0.7
+000000222094.jpg,false_positive,car,0.8062,medium,,high_accuracy,0.7
+000000222094.jpg,false_positive,car,0.7914,small,,high_accuracy,0.7
+000000222094.jpg,false_positive,car,0.7634,small,,high_accuracy,0.7
+000000222094.jpg,false_positive,truck,0.7631,medium,,high_accuracy,0.7
+000000222094.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000222094.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000222094.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000222094.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000456394.jpg,false_positive,car,0.7346,small,,high_accuracy,0.7
+000000456394.jpg,poor_localisation,car,0.819,small,0.5243,high_accuracy,0.7
+000000074058.jpg,false_positive,car,0.9942,medium,,high_accuracy,0.7
+000000074058.jpg,false_positive,car,0.8607,small,,high_accuracy,0.7
+000000074058.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000074058.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000074058.jpg,false_negative,truck,,medium,,high_accuracy,0.7
+000000074058.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000074058.jpg,poor_localisation,bicycle,0.9903,medium,0.5165,high_accuracy,0.7
+000000210273.jpg,false_positive,car,0.9253,small,,high_accuracy,0.7
+000000210273.jpg,false_positive,car,0.8738,small,,high_accuracy,0.7
+000000210273.jpg,false_positive,person,0.8408,medium,,high_accuracy,0.7
+000000210273.jpg,false_positive,car,0.8236,small,,high_accuracy,0.7
+000000210273.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000210273.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000210273.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000210273.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000210273.jpg,poor_localisation,person,0.9029,small,0.5893,high_accuracy,0.7
+000000210273.jpg,poor_localisation,person,0.8879,small,0.5955,high_accuracy,0.7
+000000210273.jpg,poor_localisation,person,0.7682,small,0.6315,high_accuracy,0.7
+000000094751.jpg,false_positive,traffic light,0.7674,medium,,high_accuracy,0.7
+000000094751.jpg,false_positive,person,0.7357,small,,high_accuracy,0.7
+000000094751.jpg,false_positive,person,0.7014,small,,high_accuracy,0.7
+000000094751.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000094751.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000094751.jpg,poor_localisation,traffic light,0.9645,medium,0.5554,high_accuracy,0.7
+000000094751.jpg,poor_localisation,person,0.9203,small,0.6126,high_accuracy,0.7
+000000094751.jpg,poor_localisation,person,0.741,small,0.6392,high_accuracy,0.7
+000000181816.jpg,false_positive,person,0.7961,small,,high_accuracy,0.7
+000000181816.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000181816.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000181816.jpg,poor_localisation,person,0.8669,small,0.5787,high_accuracy,0.7
+000000509008.jpg,false_positive,truck,0.8801,medium,,high_accuracy,0.7
+000000249219.jpg,false_positive,person,0.9775,small,,high_accuracy,0.7
+000000249219.jpg,false_positive,person,0.779,small,,high_accuracy,0.7
+000000179265.jpg,false_positive,truck,0.8441,medium,,high_accuracy,0.7
+000000179265.jpg,false_positive,car,0.8341,medium,,high_accuracy,0.7
+000000179265.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000179265.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000158548.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000158548.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000158548.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000158548.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000032941.jpg,false_positive,person,0.9844,small,,high_accuracy,0.7
+000000032941.jpg,false_positive,person,0.966,small,,high_accuracy,0.7
+000000032941.jpg,false_positive,traffic light,0.8908,small,,high_accuracy,0.7
+000000032941.jpg,false_positive,bus,0.8363,medium,,high_accuracy,0.7
+000000032941.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000032941.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000032941.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000032941.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000032941.jpg,poor_localisation,person,0.8813,small,0.5933,high_accuracy,0.7
+000000309391.jpg,false_positive,traffic light,0.9811,small,,high_accuracy,0.7
+000000309391.jpg,false_positive,traffic light,0.9575,small,,high_accuracy,0.7
+000000309391.jpg,false_positive,traffic light,0.9147,small,,high_accuracy,0.7
+000000309391.jpg,false_positive,traffic light,0.891,small,,high_accuracy,0.7
+000000309391.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000309391.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000309391.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000309391.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000309391.jpg,poor_localisation,person,0.9758,small,0.6389,high_accuracy,0.7
+000000309391.jpg,poor_localisation,traffic light,0.9756,small,0.595,high_accuracy,0.7
+000000309391.jpg,poor_localisation,traffic light,0.9002,small,0.6185,high_accuracy,0.7
+000000309391.jpg,poor_localisation,person,0.7772,small,0.5136,high_accuracy,0.7
+000000309391.jpg,poor_localisation,person,0.7361,small,0.6252,high_accuracy,0.7
+000000146498.jpg,false_positive,car,0.7397,small,,high_accuracy,0.7
+000000146498.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000146498.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000563653.jpg,false_positive,car,0.8621,small,,high_accuracy,0.7
+000000563653.jpg,false_positive,car,0.8594,small,,high_accuracy,0.7
+000000563653.jpg,false_positive,car,0.7898,small,,high_accuracy,0.7
+000000563653.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000418696.jpg,false_positive,car,0.9662,small,,high_accuracy,0.7
+000000418696.jpg,false_positive,traffic light,0.9565,small,,high_accuracy,0.7
+000000418696.jpg,false_positive,car,0.8914,small,,high_accuracy,0.7
+000000418696.jpg,false_positive,traffic light,0.8058,small,,high_accuracy,0.7
+000000418696.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000418696.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000418696.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000418696.jpg,poor_localisation,traffic light,0.9339,small,0.635,high_accuracy,0.7
+000000418696.jpg,poor_localisation,traffic light,0.8365,small,0.5539,high_accuracy,0.7
+000000253835.jpg,false_positive,traffic light,0.9906,small,,high_accuracy,0.7
+000000253835.jpg,false_positive,person,0.8032,medium,,high_accuracy,0.7
+000000253835.jpg,false_positive,traffic light,0.7916,small,,high_accuracy,0.7
+000000253835.jpg,false_positive,person,0.7368,large,,high_accuracy,0.7
+000000253835.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000253835.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000308631.jpg,false_positive,person,0.925,small,,high_accuracy,0.7
+000000308631.jpg,false_positive,person,0.7185,medium,,high_accuracy,0.7
+000000308631.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000284698.jpg,false_positive,bicycle,0.8717,large,,high_accuracy,0.7
+000000284698.jpg,false_negative,motorcycle,,large,,high_accuracy,0.7
+000000191013.jpg,false_positive,car,0.8952,small,,high_accuracy,0.7
+000000191013.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000278848.jpg,false_positive,car,0.8594,small,,high_accuracy,0.7
+000000278848.jpg,false_positive,person,0.787,medium,,high_accuracy,0.7
+000000278848.jpg,false_positive,car,0.7555,small,,high_accuracy,0.7
+000000278848.jpg,poor_localisation,bus,0.9836,large,0.5238,high_accuracy,0.7
+000000338905.jpg,false_positive,motorcycle,0.827,medium,,high_accuracy,0.7
+000000338905.jpg,false_positive,person,0.732,medium,,high_accuracy,0.7
+000000338905.jpg,false_positive,person,0.7111,small,,high_accuracy,0.7
+000000338905.jpg,false_negative,motorcycle,,medium,,high_accuracy,0.7
+000000338905.jpg,false_negative,motorcycle,,medium,,high_accuracy,0.7
+000000338905.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000338905.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000338905.jpg,poor_localisation,person,0.9054,medium,0.584,high_accuracy,0.7
+000000059635.jpg,false_positive,person,0.9903,medium,,high_accuracy,0.7
+000000059635.jpg,false_positive,person,0.9878,medium,,high_accuracy,0.7
+000000059635.jpg,false_positive,person,0.9869,medium,,high_accuracy,0.7
+000000059635.jpg,false_positive,person,0.9771,medium,,high_accuracy,0.7
+000000059635.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000059635.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000059635.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000059635.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000426166.jpg,false_positive,bicycle,0.7924,medium,,high_accuracy,0.7
+000000039484.jpg,false_positive,car,0.989,medium,,high_accuracy,0.7
+000000039484.jpg,false_positive,person,0.8428,small,,high_accuracy,0.7
+000000039484.jpg,false_positive,person,0.758,small,,high_accuracy,0.7
+000000039484.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000039484.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000039484.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000039484.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000039484.jpg,poor_localisation,car,0.9777,medium,0.5779,high_accuracy,0.7
+000000039484.jpg,poor_localisation,traffic light,0.9346,small,0.5901,high_accuracy,0.7
+000000039484.jpg,poor_localisation,person,0.9128,small,0.5353,high_accuracy,0.7
+000000039484.jpg,poor_localisation,person,0.7544,small,0.6023,high_accuracy,0.7
+000000105912.jpg,false_positive,person,0.9426,small,,high_accuracy,0.7
+000000105912.jpg,false_positive,person,0.7858,small,,high_accuracy,0.7
+000000105912.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000105912.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000105912.jpg,poor_localisation,person,0.9479,small,0.5875,high_accuracy,0.7
+000000069213.jpg,false_positive,person,0.8363,medium,,high_accuracy,0.7
+000000069213.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000069213.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000315187.jpg,false_positive,car,0.9576,small,,high_accuracy,0.7
+000000315187.jpg,false_positive,traffic light,0.9223,small,,high_accuracy,0.7
+000000315187.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000315187.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000315187.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000315187.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000142585.jpg,false_positive,car,0.9238,medium,,high_accuracy,0.7
+000000142585.jpg,false_positive,car,0.9141,medium,,high_accuracy,0.7
+000000142585.jpg,false_positive,car,0.8723,medium,,high_accuracy,0.7
+000000142585.jpg,false_positive,car,0.8714,medium,,high_accuracy,0.7
+000000142585.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000142585.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000142585.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000142585.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000142585.jpg,poor_localisation,motorcycle,0.9732,medium,0.6329,high_accuracy,0.7
+000000142585.jpg,poor_localisation,traffic light,0.968,small,0.5632,high_accuracy,0.7
+000000213593.jpg,false_positive,car,0.9433,medium,,high_accuracy,0.7
+000000213593.jpg,false_positive,car,0.9304,medium,,high_accuracy,0.7
+000000213593.jpg,false_positive,car,0.8877,medium,,high_accuracy,0.7
+000000213593.jpg,false_positive,person,0.8776,small,,high_accuracy,0.7
+000000213593.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000019109.jpg,false_positive,car,0.9866,medium,,high_accuracy,0.7
+000000019109.jpg,false_positive,motorcycle,0.9622,medium,,high_accuracy,0.7
+000000019109.jpg,false_positive,motorcycle,0.9471,medium,,high_accuracy,0.7
+000000019109.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000019109.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000019109.jpg,false_negative,motorcycle,,small,,high_accuracy,0.7
+000000019109.jpg,false_negative,motorcycle,,small,,high_accuracy,0.7
+000000019109.jpg,poor_localisation,person,0.9304,small,0.6143,high_accuracy,0.7
+000000019109.jpg,poor_localisation,person,0.8588,small,0.64,high_accuracy,0.7
+000000019109.jpg,poor_localisation,person,0.796,small,0.6328,high_accuracy,0.7
+000000081394.jpg,false_positive,motorcycle,0.8488,medium,,high_accuracy,0.7
+000000081394.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000099114.jpg,false_positive,person,0.8784,small,,high_accuracy,0.7
+000000099114.jpg,false_positive,person,0.8671,small,,high_accuracy,0.7
+000000099114.jpg,false_positive,person,0.8284,small,,high_accuracy,0.7
+000000099114.jpg,false_positive,person,0.7201,small,,high_accuracy,0.7
+000000099114.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000099114.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000099114.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000099114.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000099114.jpg,poor_localisation,bicycle,0.951,small,0.6437,high_accuracy,0.7
+000000165039.jpg,false_positive,person,0.923,medium,,high_accuracy,0.7
+000000165039.jpg,false_positive,person,0.8395,small,,high_accuracy,0.7
+000000165039.jpg,false_positive,car,0.8237,small,,high_accuracy,0.7
+000000165039.jpg,false_positive,traffic light,0.7602,small,,high_accuracy,0.7
+000000165039.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000165039.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000165039.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000165039.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000165039.jpg,poor_localisation,traffic light,0.9128,small,0.5829,high_accuracy,0.7
+000000165039.jpg,poor_localisation,car,0.9051,small,0.5288,high_accuracy,0.7
+000000137727.jpg,false_positive,truck,0.7797,small,,high_accuracy,0.7
+000000137727.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000137727.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000137727.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000279278.jpg,false_positive,bicycle,0.9806,large,,high_accuracy,0.7
+000000279278.jpg,false_positive,bicycle,0.9265,medium,,high_accuracy,0.7
+000000279278.jpg,false_positive,person,0.8394,medium,,high_accuracy,0.7
+000000279278.jpg,false_positive,person,0.7787,medium,,high_accuracy,0.7
+000000279278.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000279278.jpg,false_negative,bicycle,,large,,high_accuracy,0.7
+000000279278.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000279278.jpg,poor_localisation,bicycle,0.9787,medium,0.5547,high_accuracy,0.7
+000000279278.jpg,poor_localisation,bicycle,0.9723,medium,0.5316,high_accuracy,0.7
+000000338625.jpg,false_positive,car,0.9623,small,,high_accuracy,0.7
+000000338625.jpg,false_positive,car,0.7852,small,,high_accuracy,0.7
+000000338625.jpg,false_positive,car,0.7654,small,,high_accuracy,0.7
+000000338625.jpg,false_positive,person,0.7347,small,,high_accuracy,0.7
+000000338625.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000338625.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000338625.jpg,poor_localisation,person,0.9571,small,0.5631,high_accuracy,0.7
+000000338625.jpg,poor_localisation,person,0.9058,small,0.5543,high_accuracy,0.7
+000000338625.jpg,poor_localisation,person,0.7924,small,0.5116,high_accuracy,0.7
+000000144300.jpg,false_positive,car,0.9458,medium,,high_accuracy,0.7
+000000144300.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000144300.jpg,false_negative,bus,,medium,,high_accuracy,0.7
+000000144300.jpg,false_negative,bus,,large,,high_accuracy,0.7
+000000144300.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000373353.jpg,false_positive,car,0.9033,small,,high_accuracy,0.7
+000000373353.jpg,false_positive,car,0.9014,small,,high_accuracy,0.7
+000000373353.jpg,false_positive,car,0.8065,small,,high_accuracy,0.7
+000000373353.jpg,false_positive,car,0.7985,small,,high_accuracy,0.7
+000000373353.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000373353.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000373353.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000373353.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000365745.jpg,false_positive,traffic light,0.9739,small,,high_accuracy,0.7
+000000498709.jpg,false_positive,car,0.9538,large,,high_accuracy,0.7
+000000498709.jpg,poor_localisation,car,0.9908,medium,0.5186,high_accuracy,0.7
+000000133819.jpg,false_positive,person,0.8238,small,,high_accuracy,0.7
+000000133819.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000133819.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000133819.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000133819.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000133819.jpg,poor_localisation,person,0.945,small,0.6357,high_accuracy,0.7
+000000555597.jpg,false_positive,car,0.918,small,,high_accuracy,0.7
+000000555597.jpg,false_positive,car,0.7794,small,,high_accuracy,0.7
+000000555597.jpg,false_positive,car,0.7709,small,,high_accuracy,0.7
+000000555597.jpg,false_positive,person,0.7667,large,,high_accuracy,0.7
+000000555597.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000555597.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000555597.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000555597.jpg,poor_localisation,car,0.851,small,0.6138,high_accuracy,0.7
+000000274272.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000274272.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000274272.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000274272.jpg,poor_localisation,person,0.7717,medium,0.5617,high_accuracy,0.7
+000000256192.jpg,false_positive,person,0.948,medium,,high_accuracy,0.7
+000000256192.jpg,false_positive,person,0.9117,medium,,high_accuracy,0.7
+000000256192.jpg,false_positive,person,0.8394,medium,,high_accuracy,0.7
+000000256192.jpg,false_positive,person,0.8224,medium,,high_accuracy,0.7
+000000256192.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000256192.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000256192.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000256192.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000256192.jpg,poor_localisation,person,0.845,medium,0.6442,high_accuracy,0.7
+000000399205.jpg,false_positive,traffic light,0.9309,small,,high_accuracy,0.7
+000000399205.jpg,false_positive,person,0.928,large,,high_accuracy,0.7
+000000399205.jpg,false_positive,motorcycle,0.8105,small,,high_accuracy,0.7
+000000399205.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000399205.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000254814.jpg,false_positive,motorcycle,0.9352,medium,,high_accuracy,0.7
+000000254814.jpg,false_positive,motorcycle,0.9349,small,,high_accuracy,0.7
+000000254814.jpg,false_positive,person,0.8692,small,,high_accuracy,0.7
+000000254814.jpg,false_positive,person,0.86,small,,high_accuracy,0.7
+000000254814.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000254814.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000254814.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000254814.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000254814.jpg,poor_localisation,person,0.8102,small,0.6426,high_accuracy,0.7
+000000213605.jpg,poor_localisation,motorcycle,0.9553,medium,0.616,high_accuracy,0.7
+000000213605.jpg,poor_localisation,person,0.7954,small,0.5175,high_accuracy,0.7
+000000427055.jpg,false_positive,car,0.7889,small,,high_accuracy,0.7
+000000114907.jpg,false_positive,person,0.9596,medium,,high_accuracy,0.7
+000000114907.jpg,false_positive,person,0.9378,medium,,high_accuracy,0.7
+000000114907.jpg,false_positive,person,0.9301,medium,,high_accuracy,0.7
+000000114907.jpg,false_positive,person,0.9108,medium,,high_accuracy,0.7
+000000114907.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000380913.jpg,false_positive,person,0.8708,large,,high_accuracy,0.7
+000000147338.jpg,false_positive,car,0.8953,small,,high_accuracy,0.7
+000000147338.jpg,false_positive,car,0.7613,medium,,high_accuracy,0.7
+000000147338.jpg,false_negative,truck,,medium,,high_accuracy,0.7
+000000147338.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000147338.jpg,false_negative,car,,large,,high_accuracy,0.7
+000000436883.jpg,false_positive,truck,0.8413,large,,high_accuracy,0.7
+000000436883.jpg,false_positive,car,0.711,medium,,high_accuracy,0.7
+000000436883.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000436883.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000436883.jpg,false_negative,bus,,large,,high_accuracy,0.7
+000000436883.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000479912.jpg,false_negative,truck,,medium,,high_accuracy,0.7
+000000015440.jpg,false_negative,bus,,medium,,high_accuracy,0.7
+000000266400.jpg,false_positive,motorcycle,0.9388,large,,high_accuracy,0.7
+000000266400.jpg,false_positive,bicycle,0.92,medium,,high_accuracy,0.7
+000000266400.jpg,false_positive,motorcycle,0.7882,medium,,high_accuracy,0.7
+000000266400.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000266400.jpg,false_negative,motorcycle,,medium,,high_accuracy,0.7
+000000266400.jpg,false_negative,motorcycle,,large,,high_accuracy,0.7
+000000266400.jpg,false_negative,motorcycle,,medium,,high_accuracy,0.7
+000000266400.jpg,poor_localisation,motorcycle,0.9808,large,0.5867,high_accuracy,0.7
+000000266400.jpg,poor_localisation,motorcycle,0.7487,small,0.5744,high_accuracy,0.7
+000000042628.jpg,false_positive,car,0.8822,medium,,high_accuracy,0.7
+000000245513.jpg,false_negative,stop sign,,small,,high_accuracy,0.7
+000000480021.jpg,false_positive,car,0.9207,medium,,high_accuracy,0.7
+000000480021.jpg,false_positive,person,0.7505,medium,,high_accuracy,0.7
+000000031817.jpg,false_positive,person,0.9008,medium,,high_accuracy,0.7
+000000031817.jpg,false_positive,motorcycle,0.8619,large,,high_accuracy,0.7
+000000031817.jpg,false_positive,motorcycle,0.7435,large,,high_accuracy,0.7
+000000031817.jpg,false_negative,motorcycle,,large,,high_accuracy,0.7
+000000031817.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000031817.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000008762.jpg,false_positive,traffic light,0.8389,small,,high_accuracy,0.7
+000000008762.jpg,false_positive,traffic light,0.7108,small,,high_accuracy,0.7
+000000008762.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000076417.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000370208.jpg,false_positive,person,0.9288,large,,high_accuracy,0.7
+000000255749.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000361103.jpg,false_positive,person,0.9645,small,,high_accuracy,0.7
+000000361103.jpg,false_positive,traffic light,0.8865,medium,,high_accuracy,0.7
+000000361103.jpg,false_positive,traffic light,0.8603,small,,high_accuracy,0.7
+000000361103.jpg,false_positive,traffic light,0.7819,medium,,high_accuracy,0.7
+000000361103.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000361103.jpg,poor_localisation,person,0.962,small,0.6285,high_accuracy,0.7
+000000361103.jpg,poor_localisation,traffic light,0.9181,small,0.6378,high_accuracy,0.7
+000000111086.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000111086.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000111086.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000111086.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000097994.jpg,false_positive,person,0.7537,medium,,high_accuracy,0.7
+000000309173.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000540414.jpg,false_positive,person,0.9756,medium,,high_accuracy,0.7
+000000540414.jpg,false_positive,person,0.9198,small,,high_accuracy,0.7
+000000540414.jpg,false_positive,person,0.9037,medium,,high_accuracy,0.7
+000000540414.jpg,false_positive,bicycle,0.8673,medium,,high_accuracy,0.7
+000000540414.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000540414.jpg,poor_localisation,person,0.9932,medium,0.5595,high_accuracy,0.7
+000000145020.jpg,false_positive,person,0.8245,small,,high_accuracy,0.7
+000000145020.jpg,false_positive,person,0.792,medium,,high_accuracy,0.7
+000000145020.jpg,false_positive,person,0.7881,medium,,high_accuracy,0.7
+000000145020.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000145020.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000145020.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000145020.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000511599.jpg,false_positive,person,0.944,small,,high_accuracy,0.7
+000000511599.jpg,false_positive,car,0.8931,small,,high_accuracy,0.7
+000000511599.jpg,false_positive,person,0.8496,small,,high_accuracy,0.7
+000000511599.jpg,false_positive,person,0.7882,small,,high_accuracy,0.7
+000000511599.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000511599.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000007386.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000007386.jpg,false_negative,truck,,medium,,high_accuracy,0.7
+000000520009.jpg,false_positive,person,0.9793,medium,,high_accuracy,0.7
+000000520009.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000520009.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000239347.jpg,false_positive,person,0.997,large,,high_accuracy,0.7
+000000239347.jpg,false_positive,person,0.9659,medium,,high_accuracy,0.7
+000000239347.jpg,false_negative,person,,large,,high_accuracy,0.7
+000000239347.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000210394.jpg,false_positive,person,0.9783,medium,,high_accuracy,0.7
+000000210394.jpg,false_positive,person,0.9782,medium,,high_accuracy,0.7
+000000210394.jpg,false_positive,person,0.9764,small,,high_accuracy,0.7
+000000210394.jpg,false_positive,person,0.95,small,,high_accuracy,0.7
+000000210394.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000210394.jpg,poor_localisation,person,0.942,small,0.6486,high_accuracy,0.7
+000000210394.jpg,poor_localisation,person,0.9249,small,0.6225,high_accuracy,0.7
+000000210394.jpg,poor_localisation,person,0.8087,small,0.5929,high_accuracy,0.7
+000000210394.jpg,poor_localisation,motorcycle,0.7361,small,0.5006,high_accuracy,0.7
+000000460347.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000460347.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000460347.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000543043.jpg,false_positive,car,0.8365,small,,high_accuracy,0.7
+000000543043.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000184324.jpg,false_positive,person,0.9528,small,,high_accuracy,0.7
+000000184324.jpg,false_positive,person,0.9459,small,,high_accuracy,0.7
+000000184324.jpg,false_positive,person,0.9436,medium,,high_accuracy,0.7
+000000184324.jpg,false_positive,person,0.9007,large,,high_accuracy,0.7
+000000184324.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000184324.jpg,false_negative,bus,,medium,,high_accuracy,0.7
+000000184324.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000184324.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000184324.jpg,poor_localisation,car,0.9839,small,0.6099,high_accuracy,0.7
+000000184324.jpg,poor_localisation,person,0.9771,medium,0.6127,high_accuracy,0.7
+000000449996.jpg,false_positive,car,0.7851,small,,high_accuracy,0.7
+000000449996.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000449996.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000449996.jpg,poor_localisation,truck,0.795,small,0.5689,high_accuracy,0.7
+000000442456.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000442456.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000442456.jpg,poor_localisation,car,0.9641,medium,0.5853,high_accuracy,0.7
+000000436738.jpg,false_positive,bus,0.8316,medium,,high_accuracy,0.7
+000000460229.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000054967.jpg,false_positive,car,0.9934,medium,,high_accuracy,0.7
+000000054967.jpg,false_positive,bus,0.9867,medium,,high_accuracy,0.7
+000000054967.jpg,false_positive,traffic light,0.9837,small,,high_accuracy,0.7
+000000054967.jpg,false_positive,car,0.9637,small,,high_accuracy,0.7
+000000054967.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000054967.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000054967.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000054967.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000054967.jpg,poor_localisation,car,0.9897,medium,0.5751,high_accuracy,0.7
+000000015338.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000293794.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000293794.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000293794.jpg,poor_localisation,person,0.9723,large,0.5939,high_accuracy,0.7
+000000332318.jpg,false_negative,truck,,medium,,high_accuracy,0.7
+000000332318.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000332318.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000148719.jpg,false_positive,car,0.9417,small,,high_accuracy,0.7
+000000148719.jpg,false_positive,car,0.9026,medium,,high_accuracy,0.7
+000000148719.jpg,false_positive,person,0.8088,small,,high_accuracy,0.7
+000000148719.jpg,false_positive,person,0.7543,small,,high_accuracy,0.7
+000000148719.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000148719.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000393226.jpg,false_positive,car,0.7109,small,,high_accuracy,0.7
+000000393226.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000393226.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000393226.jpg,poor_localisation,traffic light,0.9938,small,0.5566,high_accuracy,0.7
+000000393226.jpg,poor_localisation,car,0.8419,small,0.6086,high_accuracy,0.7
+000000100283.jpg,false_positive,car,0.8514,small,,high_accuracy,0.7
+000000100283.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000100283.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000459634.jpg,false_positive,person,0.8026,small,,high_accuracy,0.7
+000000459634.jpg,false_negative,motorcycle,,large,,high_accuracy,0.7
+000000459634.jpg,poor_localisation,motorcycle,0.9116,small,0.611,high_accuracy,0.7
+000000087144.jpg,false_negative,car,,medium,,high_accuracy,0.7
+000000128372.jpg,false_positive,person,0.9669,small,,high_accuracy,0.7
+000000128372.jpg,false_positive,person,0.8506,medium,,high_accuracy,0.7
+000000128372.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000128372.jpg,poor_localisation,person,0.8627,small,0.6475,high_accuracy,0.7
+000000024027.jpg,false_positive,car,0.9462,small,,high_accuracy,0.7
+000000024027.jpg,false_positive,car,0.9331,small,,high_accuracy,0.7
+000000306437.jpg,false_positive,bicycle,0.7215,medium,,high_accuracy,0.7
+000000306437.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000306437.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000306437.jpg,poor_localisation,bicycle,0.9655,small,0.5037,high_accuracy,0.7
+000000044590.jpg,false_positive,person,0.8636,small,,high_accuracy,0.7
+000000044590.jpg,false_positive,motorcycle,0.8076,medium,,high_accuracy,0.7
+000000044590.jpg,false_positive,truck,0.7061,medium,,high_accuracy,0.7
+000000044590.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000044590.jpg,false_negative,motorcycle,,small,,high_accuracy,0.7
+000000044590.jpg,poor_localisation,motorcycle,0.9436,small,0.6052,high_accuracy,0.7
+000000044590.jpg,poor_localisation,motorcycle,0.9183,small,0.5406,high_accuracy,0.7
+000000580418.jpg,false_positive,car,0.7321,small,,high_accuracy,0.7
+000000580418.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000580418.jpg,false_negative,stop sign,,small,,high_accuracy,0.7
+000000259640.jpg,false_positive,person,0.9786,medium,,high_accuracy,0.7
+000000259640.jpg,false_positive,person,0.9278,medium,,high_accuracy,0.7
+000000259640.jpg,false_positive,person,0.8304,medium,,high_accuracy,0.7
+000000259640.jpg,false_positive,bicycle,0.7889,large,,high_accuracy,0.7
+000000259640.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000259640.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000259640.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000259640.jpg,false_negative,truck,,large,,high_accuracy,0.7
+000000259640.jpg,poor_localisation,person,0.8502,small,0.5916,high_accuracy,0.7
+000000538364.jpg,false_positive,car,0.758,small,,high_accuracy,0.7
+000000538364.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000538364.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000538364.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000538364.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000102805.jpg,false_positive,person,0.9829,small,,high_accuracy,0.7
+000000102805.jpg,false_positive,person,0.9571,small,,high_accuracy,0.7
+000000102805.jpg,false_positive,truck,0.8431,medium,,high_accuracy,0.7
+000000102805.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000457884.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000457884.jpg,false_negative,motorcycle,,small,,high_accuracy,0.7
+000000306893.jpg,false_positive,traffic light,0.9684,small,,high_accuracy,0.7
+000000306893.jpg,false_positive,traffic light,0.8902,small,,high_accuracy,0.7
+000000306893.jpg,false_positive,traffic light,0.7825,small,,high_accuracy,0.7
+000000306893.jpg,false_negative,traffic light,,small,,high_accuracy,0.7
+000000306893.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000306893.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000306893.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000142324.jpg,false_positive,person,0.9949,large,,high_accuracy,0.7
+000000142324.jpg,false_positive,person,0.9575,large,,high_accuracy,0.7
+000000142324.jpg,false_positive,person,0.9539,medium,,high_accuracy,0.7
+000000142324.jpg,false_positive,person,0.9068,medium,,high_accuracy,0.7
+000000142324.jpg,false_negative,bicycle,,small,,high_accuracy,0.7
+000000142324.jpg,false_negative,truck,,small,,high_accuracy,0.7
+000000142324.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000142324.jpg,false_negative,person,,medium,,high_accuracy,0.7
+000000142324.jpg,poor_localisation,person,0.9748,medium,0.6236,high_accuracy,0.7
+000000142324.jpg,poor_localisation,bicycle,0.9624,medium,0.5912,high_accuracy,0.7
+000000142324.jpg,poor_localisation,person,0.7802,small,0.5622,high_accuracy,0.7
+000000190753.jpg,false_positive,person,0.9062,small,,high_accuracy,0.7
+000000190753.jpg,false_positive,person,0.872,small,,high_accuracy,0.7
+000000190753.jpg,false_negative,bicycle,,medium,,high_accuracy,0.7
+000000166747.jpg,false_positive,person,0.9534,medium,,high_accuracy,0.7
+000000166747.jpg,false_positive,person,0.9178,medium,,high_accuracy,0.7
+000000166747.jpg,false_positive,person,0.8889,medium,,high_accuracy,0.7
+000000166747.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000166747.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000166747.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000166747.jpg,false_negative,person,,small,,high_accuracy,0.7
+000000466416.jpg,false_positive,car,0.7622,small,,high_accuracy,0.7
+000000466416.jpg,false_positive,car,0.7336,small,,high_accuracy,0.7
+000000466416.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000466416.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000466416.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000466416.jpg,false_negative,car,,small,,high_accuracy,0.7
+000000466416.jpg,poor_localisation,car,0.7449,small,0.6063,high_accuracy,0.7
+000000224051.jpg,false_negative,car,,medium,,lightweight,0.5
+000000224051.jpg,false_negative,car,,small,,lightweight,0.5
+000000157365.jpg,false_negative,car,,medium,,lightweight,0.5
+000000157365.jpg,false_negative,car,,medium,,lightweight,0.5
+000000157365.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000157365.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000507797.jpg,false_negative,bus,,large,,lightweight,0.5
+000000507797.jpg,false_negative,person,,medium,,lightweight,0.5
+000000507797.jpg,false_negative,person,,small,,lightweight,0.5
+000000507797.jpg,false_negative,person,,small,,lightweight,0.5
+000000507797.jpg,poor_localisation,person,0.5663,medium,0.6226,lightweight,0.5
+000000177934.jpg,false_positive,person,0.6333,large,,lightweight,0.5
+000000177934.jpg,false_negative,car,,medium,,lightweight,0.5
+000000177934.jpg,false_negative,car,,medium,,lightweight,0.5
+000000177934.jpg,false_negative,car,,small,,lightweight,0.5
+000000177934.jpg,false_negative,car,,small,,lightweight,0.5
+000000572555.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000572555.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000572555.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000135670.jpg,poor_localisation,bicycle,0.8312,large,0.6227,lightweight,0.5
+000000319607.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000319607.jpg,false_negative,person,,medium,,lightweight,0.5
+000000319607.jpg,false_negative,traffic light,,large,,lightweight,0.5
+000000319607.jpg,false_negative,person,,medium,,lightweight,0.5
+000000122166.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000122166.jpg,false_negative,car,,small,,lightweight,0.5
+000000122166.jpg,false_negative,car,,medium,,lightweight,0.5
+000000122166.jpg,false_negative,car,,medium,,lightweight,0.5
+000000115946.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000115946.jpg,false_negative,person,,small,,lightweight,0.5
+000000115946.jpg,false_negative,car,,medium,,lightweight,0.5
+000000115946.jpg,false_negative,car,,small,,lightweight,0.5
+000000219271.jpg,false_negative,truck,,large,,lightweight,0.5
+000000219271.jpg,false_negative,person,,medium,,lightweight,0.5
+000000219271.jpg,false_negative,person,,small,,lightweight,0.5
+000000219271.jpg,false_negative,person,,small,,lightweight,0.5
+000000308793.jpg,false_positive,person,0.8498,large,,lightweight,0.5
+000000308793.jpg,false_negative,person,,large,,lightweight,0.5
+000000125778.jpg,false_negative,car,,medium,,lightweight,0.5
+000000008211.jpg,false_positive,motorcycle,0.9403,large,,lightweight,0.5
+000000008211.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000476704.jpg,false_positive,car,0.7292,medium,,lightweight,0.5
+000000476704.jpg,false_negative,car,,medium,,lightweight,0.5
+000000476704.jpg,false_negative,car,,small,,lightweight,0.5
+000000476704.jpg,false_negative,car,,small,,lightweight,0.5
+000000476704.jpg,false_negative,car,,small,,lightweight,0.5
+000000333745.jpg,false_positive,person,0.8378,large,,lightweight,0.5
+000000509451.jpg,false_positive,person,0.8862,large,,lightweight,0.5
+000000509451.jpg,false_positive,person,0.8597,medium,,lightweight,0.5
+000000509451.jpg,false_positive,person,0.8173,large,,lightweight,0.5
+000000509451.jpg,false_negative,person,,large,,lightweight,0.5
+000000509451.jpg,false_negative,person,,large,,lightweight,0.5
+000000509451.jpg,poor_localisation,person,0.8725,large,0.5212,lightweight,0.5
+000000283038.jpg,false_negative,car,,small,,lightweight,0.5
+000000283038.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000283038.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000283038.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000100723.jpg,false_negative,stop sign,,large,,lightweight,0.5
+000000100723.jpg,false_negative,person,,medium,,lightweight,0.5
+000000100723.jpg,false_negative,person,,medium,,lightweight,0.5
+000000100723.jpg,false_negative,person,,small,,lightweight,0.5
+000000033759.jpg,false_negative,car,,medium,,lightweight,0.5
+000000033759.jpg,false_negative,truck,,large,,lightweight,0.5
+000000221754.jpg,false_negative,car,,small,,lightweight,0.5
+000000221754.jpg,false_negative,car,,small,,lightweight,0.5
+000000221754.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000221754.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000028993.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000028993.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000028993.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000028993.jpg,false_negative,person,,small,,lightweight,0.5
+000000333697.jpg,false_positive,stop sign,0.7683,large,,lightweight,0.5
+000000333697.jpg,false_negative,stop sign,,medium,,lightweight,0.5
+000000562561.jpg,false_positive,person,0.8246,large,,lightweight,0.5
+000000291791.jpg,false_negative,person,,medium,,lightweight,0.5
+000000291791.jpg,false_negative,person,,medium,,lightweight,0.5
+000000000724.jpg,false_negative,truck,,small,,lightweight,0.5
+000000000724.jpg,false_negative,car,,small,,lightweight,0.5
+000000000724.jpg,false_negative,stop sign,,small,,lightweight,0.5
+000000463522.jpg,false_positive,person,0.5363,medium,,lightweight,0.5
+000000463522.jpg,false_negative,person,,small,,lightweight,0.5
+000000463522.jpg,false_negative,person,,small,,lightweight,0.5
+000000463522.jpg,false_negative,person,,small,,lightweight,0.5
+000000463522.jpg,false_negative,person,,small,,lightweight,0.5
+000000192716.jpg,false_negative,car,,medium,,lightweight,0.5
+000000192716.jpg,false_negative,car,,medium,,lightweight,0.5
+000000192716.jpg,false_negative,person,,small,,lightweight,0.5
+000000121497.jpg,false_negative,person,,large,,lightweight,0.5
+000000121497.jpg,false_negative,person,,large,,lightweight,0.5
+000000121497.jpg,false_negative,person,,medium,,lightweight,0.5
+000000121497.jpg,false_negative,person,,medium,,lightweight,0.5
+000000441586.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000441586.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000441586.jpg,false_negative,person,,small,,lightweight,0.5
+000000441586.jpg,false_negative,motorcycle,,large,,lightweight,0.5
+000000032334.jpg,false_negative,person,,small,,lightweight,0.5
+000000032334.jpg,false_negative,person,,medium,,lightweight,0.5
+000000032334.jpg,false_negative,car,,medium,,lightweight,0.5
+000000032334.jpg,poor_localisation,person,0.9174,large,0.5745,lightweight,0.5
+000000146667.jpg,false_positive,person,0.5419,large,,lightweight,0.5
+000000146667.jpg,false_negative,car,,medium,,lightweight,0.5
+000000146667.jpg,false_negative,car,,medium,,lightweight,0.5
+000000146667.jpg,false_negative,person,,medium,,lightweight,0.5
+000000146667.jpg,false_negative,person,,medium,,lightweight,0.5
+000000146667.jpg,poor_localisation,person,0.5427,medium,0.5617,lightweight,0.5
+000000124277.jpg,false_negative,car,,small,,lightweight,0.5
+000000124277.jpg,false_negative,car,,small,,lightweight,0.5
+000000124277.jpg,false_negative,truck,,small,,lightweight,0.5
+000000124277.jpg,false_negative,truck,,small,,lightweight,0.5
+000000222094.jpg,false_positive,car,0.6803,small,,lightweight,0.5
+000000222094.jpg,false_negative,car,,medium,,lightweight,0.5
+000000222094.jpg,false_negative,car,,small,,lightweight,0.5
+000000222094.jpg,false_negative,car,,small,,lightweight,0.5
+000000222094.jpg,false_negative,car,,small,,lightweight,0.5
+000000456394.jpg,false_negative,car,,small,,lightweight,0.5
+000000456394.jpg,false_negative,car,,medium,,lightweight,0.5
+000000074058.jpg,false_positive,bicycle,0.6561,large,,lightweight,0.5
+000000074058.jpg,false_positive,bicycle,0.6035,medium,,lightweight,0.5
+000000074058.jpg,false_positive,bicycle,0.5091,large,,lightweight,0.5
+000000074058.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000074058.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000074058.jpg,false_negative,car,,small,,lightweight,0.5
+000000074058.jpg,false_negative,car,,small,,lightweight,0.5
+000000074058.jpg,poor_localisation,car,0.7301,medium,0.5359,lightweight,0.5
+000000210273.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000210273.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000210273.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000210273.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000094751.jpg,false_negative,car,,medium,,lightweight,0.5
+000000094751.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000094751.jpg,false_negative,person,,small,,lightweight,0.5
+000000094751.jpg,false_negative,person,,small,,lightweight,0.5
+000000181816.jpg,false_negative,car,,medium,,lightweight,0.5
+000000181816.jpg,false_negative,person,,small,,lightweight,0.5
+000000181816.jpg,false_negative,person,,small,,lightweight,0.5
+000000179265.jpg,false_negative,car,,medium,,lightweight,0.5
+000000179265.jpg,false_negative,truck,,small,,lightweight,0.5
+000000179265.jpg,false_negative,person,,small,,lightweight,0.5
+000000179265.jpg,false_negative,person,,small,,lightweight,0.5
+000000158548.jpg,false_negative,car,,small,,lightweight,0.5
+000000158548.jpg,false_negative,person,,medium,,lightweight,0.5
+000000158548.jpg,false_negative,person,,small,,lightweight,0.5
+000000158548.jpg,false_negative,person,,small,,lightweight,0.5
+000000032941.jpg,false_negative,car,,small,,lightweight,0.5
+000000032941.jpg,false_negative,car,,small,,lightweight,0.5
+000000032941.jpg,false_negative,car,,small,,lightweight,0.5
+000000032941.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000309391.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000309391.jpg,false_negative,car,,small,,lightweight,0.5
+000000309391.jpg,false_negative,person,,medium,,lightweight,0.5
+000000309391.jpg,false_negative,person,,small,,lightweight,0.5
+000000146498.jpg,false_negative,car,,small,,lightweight,0.5
+000000146498.jpg,false_negative,car,,small,,lightweight,0.5
+000000146498.jpg,false_negative,car,,small,,lightweight,0.5
+000000146498.jpg,false_negative,car,,small,,lightweight,0.5
+000000352582.jpg,false_negative,person,,large,,lightweight,0.5
+000000563653.jpg,false_negative,car,,medium,,lightweight,0.5
+000000563653.jpg,false_negative,car,,small,,lightweight,0.5
+000000563653.jpg,false_negative,car,,small,,lightweight,0.5
+000000563653.jpg,false_negative,car,,small,,lightweight,0.5
+000000418696.jpg,false_positive,car,0.8111,small,,lightweight,0.5
+000000418696.jpg,false_negative,car,,small,,lightweight,0.5
+000000418696.jpg,false_negative,car,,medium,,lightweight,0.5
+000000418696.jpg,false_negative,truck,,small,,lightweight,0.5
+000000418696.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000253835.jpg,false_positive,person,0.8473,large,,lightweight,0.5
+000000253835.jpg,false_negative,person,,medium,,lightweight,0.5
+000000253835.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000253835.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000308631.jpg,false_negative,person,,large,,lightweight,0.5
+000000308631.jpg,false_negative,person,,medium,,lightweight,0.5
+000000308631.jpg,false_negative,person,,medium,,lightweight,0.5
+000000308631.jpg,false_negative,person,,medium,,lightweight,0.5
+000000284698.jpg,false_negative,motorcycle,,large,,lightweight,0.5
+000000191013.jpg,false_negative,car,,medium,,lightweight,0.5
+000000191013.jpg,false_negative,person,,small,,lightweight,0.5
+000000191013.jpg,false_negative,car,,small,,lightweight,0.5
+000000191013.jpg,false_negative,person,,small,,lightweight,0.5
+000000278848.jpg,false_negative,car,,small,,lightweight,0.5
+000000278848.jpg,false_negative,bus,,large,,lightweight,0.5
+000000278848.jpg,poor_localisation,car,0.7236,medium,0.5701,lightweight,0.5
+000000338905.jpg,false_positive,person,0.5456,medium,,lightweight,0.5
+000000338905.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000338905.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000338905.jpg,false_negative,person,,medium,,lightweight,0.5
+000000338905.jpg,false_negative,person,,medium,,lightweight,0.5
+000000338905.jpg,poor_localisation,person,0.6119,medium,0.5225,lightweight,0.5
+000000059635.jpg,false_negative,person,,small,,lightweight,0.5
+000000059635.jpg,false_negative,person,,medium,,lightweight,0.5
+000000059635.jpg,false_negative,person,,small,,lightweight,0.5
+000000059635.jpg,false_negative,person,,small,,lightweight,0.5
+000000039484.jpg,false_positive,person,0.8454,small,,lightweight,0.5
+000000039484.jpg,false_negative,car,,medium,,lightweight,0.5
+000000039484.jpg,false_negative,car,,medium,,lightweight,0.5
+000000039484.jpg,false_negative,car,,medium,,lightweight,0.5
+000000039484.jpg,false_negative,car,,medium,,lightweight,0.5
+000000105912.jpg,false_negative,car,,small,,lightweight,0.5
+000000105912.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000105912.jpg,false_negative,person,,small,,lightweight,0.5
+000000105912.jpg,false_negative,person,,small,,lightweight,0.5
+000000069213.jpg,false_positive,bicycle,0.5112,large,,lightweight,0.5
+000000069213.jpg,false_negative,motorcycle,,large,,lightweight,0.5
+000000069213.jpg,false_negative,person,,medium,,lightweight,0.5
+000000069213.jpg,false_negative,person,,medium,,lightweight,0.5
+000000069213.jpg,false_negative,person,,small,,lightweight,0.5
+000000315187.jpg,false_positive,person,0.7342,small,,lightweight,0.5
+000000315187.jpg,false_negative,car,,medium,,lightweight,0.5
+000000315187.jpg,false_negative,car,,small,,lightweight,0.5
+000000315187.jpg,false_negative,person,,small,,lightweight,0.5
+000000315187.jpg,false_negative,person,,small,,lightweight,0.5
+000000142585.jpg,false_positive,car,0.8028,large,,lightweight,0.5
+000000142585.jpg,false_negative,car,,medium,,lightweight,0.5
+000000142585.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000142585.jpg,false_negative,bus,,large,,lightweight,0.5
+000000142585.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000213593.jpg,false_negative,car,,medium,,lightweight,0.5
+000000213593.jpg,false_negative,car,,medium,,lightweight,0.5
+000000213593.jpg,false_negative,car,,small,,lightweight,0.5
+000000213593.jpg,false_negative,car,,medium,,lightweight,0.5
+000000019109.jpg,false_positive,motorcycle,0.6427,medium,,lightweight,0.5
+000000019109.jpg,false_positive,motorcycle,0.6304,large,,lightweight,0.5
+000000019109.jpg,false_positive,motorcycle,0.5458,medium,,lightweight,0.5
+000000019109.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000019109.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000019109.jpg,false_negative,person,,small,,lightweight,0.5
+000000019109.jpg,false_negative,person,,medium,,lightweight,0.5
+000000019109.jpg,poor_localisation,motorcycle,0.8912,medium,0.6376,lightweight,0.5
+000000019109.jpg,poor_localisation,motorcycle,0.6844,medium,0.5159,lightweight,0.5
+000000019109.jpg,poor_localisation,motorcycle,0.6808,medium,0.5886,lightweight,0.5
+000000362682.jpg,false_negative,person,,small,,lightweight,0.5
+000000362682.jpg,false_negative,truck,,large,,lightweight,0.5
+000000362682.jpg,false_negative,person,,small,,lightweight,0.5
+000000081394.jpg,false_negative,car,,small,,lightweight,0.5
+000000081394.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000081394.jpg,false_negative,motorcycle,,small,,lightweight,0.5
+000000081394.jpg,false_negative,person,,small,,lightweight,0.5
+000000099114.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000099114.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000099114.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000099114.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000165039.jpg,false_negative,car,,medium,,lightweight,0.5
+000000165039.jpg,false_negative,car,,medium,,lightweight,0.5
+000000165039.jpg,false_negative,person,,small,,lightweight,0.5
+000000165039.jpg,false_negative,person,,small,,lightweight,0.5
+000000137727.jpg,false_negative,person,,small,,lightweight,0.5
+000000137727.jpg,false_negative,person,,medium,,lightweight,0.5
+000000137727.jpg,false_negative,person,,small,,lightweight,0.5
+000000137727.jpg,false_negative,car,,small,,lightweight,0.5
+000000279278.jpg,false_positive,bicycle,0.7198,large,,lightweight,0.5
+000000279278.jpg,false_negative,person,,medium,,lightweight,0.5
+000000279278.jpg,false_negative,person,,large,,lightweight,0.5
+000000279278.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000279278.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000279278.jpg,poor_localisation,bicycle,0.649,medium,0.627,lightweight,0.5
+000000279278.jpg,poor_localisation,person,0.5529,medium,0.6403,lightweight,0.5
+000000279278.jpg,poor_localisation,bicycle,0.5401,medium,0.5172,lightweight,0.5
+000000338625.jpg,false_negative,car,,medium,,lightweight,0.5
+000000338625.jpg,false_negative,car,,medium,,lightweight,0.5
+000000338625.jpg,false_negative,person,,small,,lightweight,0.5
+000000338625.jpg,false_negative,person,,small,,lightweight,0.5
+000000144300.jpg,false_negative,person,,medium,,lightweight,0.5
+000000144300.jpg,false_negative,person,,medium,,lightweight,0.5
+000000144300.jpg,false_negative,truck,,large,,lightweight,0.5
+000000144300.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000373353.jpg,false_positive,person,0.514,small,,lightweight,0.5
+000000373353.jpg,false_positive,car,0.5073,small,,lightweight,0.5
+000000373353.jpg,false_negative,person,,medium,,lightweight,0.5
+000000373353.jpg,false_negative,person,,small,,lightweight,0.5
+000000373353.jpg,false_negative,person,,small,,lightweight,0.5
+000000373353.jpg,false_negative,person,,small,,lightweight,0.5
+000000373353.jpg,poor_localisation,car,0.5031,medium,0.5815,lightweight,0.5
+000000365745.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000365745.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000365745.jpg,false_negative,person,,small,,lightweight,0.5
+000000365745.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000498709.jpg,false_negative,car,,medium,,lightweight,0.5
+000000498709.jpg,false_negative,car,,medium,,lightweight,0.5
+000000498709.jpg,false_negative,car,,medium,,lightweight,0.5
+000000133819.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000133819.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000133819.jpg,false_negative,person,,small,,lightweight,0.5
+000000133819.jpg,false_negative,person,,small,,lightweight,0.5
+000000555597.jpg,false_positive,car,0.8429,medium,,lightweight,0.5
+000000555597.jpg,false_positive,car,0.713,medium,,lightweight,0.5
+000000555597.jpg,false_positive,car,0.6188,small,,lightweight,0.5
+000000555597.jpg,false_positive,car,0.5173,medium,,lightweight,0.5
+000000555597.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000555597.jpg,false_negative,person,,small,,lightweight,0.5
+000000555597.jpg,false_negative,car,,medium,,lightweight,0.5
+000000555597.jpg,false_negative,car,,medium,,lightweight,0.5
+000000274272.jpg,false_negative,car,,medium,,lightweight,0.5
+000000274272.jpg,false_negative,person,,medium,,lightweight,0.5
+000000274272.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000274272.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000256192.jpg,false_positive,person,0.6148,medium,,lightweight,0.5
+000000256192.jpg,false_positive,person,0.5649,medium,,lightweight,0.5
+000000256192.jpg,false_positive,person,0.5252,medium,,lightweight,0.5
+000000256192.jpg,false_positive,person,0.5054,medium,,lightweight,0.5
+000000256192.jpg,false_negative,person,,small,,lightweight,0.5
+000000256192.jpg,false_negative,person,,medium,,lightweight,0.5
+000000256192.jpg,false_negative,person,,medium,,lightweight,0.5
+000000256192.jpg,false_negative,person,,medium,,lightweight,0.5
+000000399205.jpg,false_positive,person,0.6529,large,,lightweight,0.5
+000000399205.jpg,false_negative,person,,medium,,lightweight,0.5
+000000399205.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000399205.jpg,false_negative,person,,small,,lightweight,0.5
+000000399205.jpg,false_negative,person,,small,,lightweight,0.5
+000000254814.jpg,false_positive,car,0.8271,large,,lightweight,0.5
+000000254814.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000254814.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000254814.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000254814.jpg,false_negative,car,,medium,,lightweight,0.5
+000000213605.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000213605.jpg,false_negative,person,,small,,lightweight,0.5
+000000427055.jpg,false_positive,car,0.641,small,,lightweight,0.5
+000000427055.jpg,false_negative,car,,small,,lightweight,0.5
+000000427055.jpg,false_negative,car,,small,,lightweight,0.5
+000000427055.jpg,false_negative,car,,small,,lightweight,0.5
+000000427055.jpg,false_negative,car,,small,,lightweight,0.5
+000000114907.jpg,false_negative,person,,medium,,lightweight,0.5
+000000114907.jpg,false_negative,person,,medium,,lightweight,0.5
+000000114907.jpg,false_negative,person,,medium,,lightweight,0.5
+000000114907.jpg,false_negative,person,,medium,,lightweight,0.5
+000000380913.jpg,false_negative,person,,medium,,lightweight,0.5
+000000147338.jpg,false_positive,car,0.5539,large,,lightweight,0.5
+000000147338.jpg,false_negative,truck,,large,,lightweight,0.5
+000000147338.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000147338.jpg,false_negative,truck,,small,,lightweight,0.5
+000000147338.jpg,poor_localisation,car,0.5764,large,0.51,lightweight,0.5
+000000436883.jpg,false_positive,truck,0.9768,large,,lightweight,0.5
+000000436883.jpg,false_negative,car,,large,,lightweight,0.5
+000000436883.jpg,false_negative,bus,,large,,lightweight,0.5
+000000436883.jpg,false_negative,person,,small,,lightweight,0.5
+000000436883.jpg,false_negative,person,,small,,lightweight,0.5
+000000225946.jpg,false_negative,stop sign,,small,,lightweight,0.5
+000000479912.jpg,false_negative,person,,small,,lightweight,0.5
+000000479912.jpg,false_negative,person,,small,,lightweight,0.5
+000000479912.jpg,false_negative,person,,small,,lightweight,0.5
+000000479912.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000015440.jpg,false_positive,car,0.7362,medium,,lightweight,0.5
+000000015440.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000015440.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000266400.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000266400.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000266400.jpg,false_negative,motorcycle,,large,,lightweight,0.5
+000000266400.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000042628.jpg,false_negative,person,,medium,,lightweight,0.5
+000000042628.jpg,false_negative,person,,medium,,lightweight,0.5
+000000042628.jpg,false_negative,person,,medium,,lightweight,0.5
+000000042628.jpg,false_negative,person,,medium,,lightweight,0.5
+000000245513.jpg,false_negative,stop sign,,small,,lightweight,0.5
+000000480021.jpg,false_positive,person,0.7469,large,,lightweight,0.5
+000000480021.jpg,false_positive,motorcycle,0.6755,large,,lightweight,0.5
+000000480021.jpg,false_positive,person,0.6037,medium,,lightweight,0.5
+000000480021.jpg,false_negative,car,,medium,,lightweight,0.5
+000000480021.jpg,false_negative,car,,medium,,lightweight,0.5
+000000480021.jpg,false_negative,person,,medium,,lightweight,0.5
+000000480021.jpg,false_negative,person,,large,,lightweight,0.5
+000000322724.jpg,false_negative,person,,medium,,lightweight,0.5
+000000031817.jpg,false_negative,person,,medium,,lightweight,0.5
+000000031817.jpg,false_negative,person,,medium,,lightweight,0.5
+000000031817.jpg,false_negative,person,,large,,lightweight,0.5
+000000031817.jpg,poor_localisation,person,0.5726,medium,0.5503,lightweight,0.5
+000000008762.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000008762.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000008762.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000008762.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000076417.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000076417.jpg,false_negative,truck,,large,,lightweight,0.5
+000000370208.jpg,false_negative,person,,medium,,lightweight,0.5
+000000255749.jpg,false_negative,person,,small,,lightweight,0.5
+000000255749.jpg,false_negative,person,,medium,,lightweight,0.5
+000000255749.jpg,false_negative,person,,medium,,lightweight,0.5
+000000255749.jpg,false_negative,person,,medium,,lightweight,0.5
+000000361103.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000361103.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000361103.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000361103.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000111086.jpg,false_negative,car,,medium,,lightweight,0.5
+000000111086.jpg,false_negative,car,,large,,lightweight,0.5
+000000111086.jpg,false_negative,car,,medium,,lightweight,0.5
+000000111086.jpg,false_negative,car,,medium,,lightweight,0.5
+000000309173.jpg,false_negative,person,,small,,lightweight,0.5
+000000540414.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000540414.jpg,false_negative,person,,medium,,lightweight,0.5
+000000540414.jpg,false_negative,person,,medium,,lightweight,0.5
+000000540414.jpg,false_negative,person,,medium,,lightweight,0.5
+000000540414.jpg,poor_localisation,person,0.7865,medium,0.5757,lightweight,0.5
+000000145020.jpg,false_negative,person,,small,,lightweight,0.5
+000000145020.jpg,false_negative,person,,small,,lightweight,0.5
+000000145020.jpg,false_negative,person,,medium,,lightweight,0.5
+000000145020.jpg,false_negative,person,,medium,,lightweight,0.5
+000000511599.jpg,false_negative,person,,small,,lightweight,0.5
+000000511599.jpg,false_negative,person,,small,,lightweight,0.5
+000000511599.jpg,false_negative,person,,medium,,lightweight,0.5
+000000511599.jpg,false_negative,person,,small,,lightweight,0.5
+000000145620.jpg,false_negative,person,,small,,lightweight,0.5
+000000145620.jpg,false_negative,person,,small,,lightweight,0.5
+000000145620.jpg,false_negative,person,,small,,lightweight,0.5
+000000145620.jpg,poor_localisation,person,0.8657,medium,0.6108,lightweight,0.5
+000000007386.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000007386.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000007386.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000520009.jpg,false_negative,person,,medium,,lightweight,0.5
+000000520009.jpg,false_negative,person,,small,,lightweight,0.5
+000000520009.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000520009.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000239347.jpg,false_positive,person,0.9147,large,,lightweight,0.5
+000000239347.jpg,false_negative,person,,large,,lightweight,0.5
+000000239347.jpg,false_negative,person,,medium,,lightweight,0.5
+000000210394.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000210394.jpg,false_negative,motorcycle,,small,,lightweight,0.5
+000000210394.jpg,false_negative,motorcycle,,small,,lightweight,0.5
+000000210394.jpg,false_negative,person,,small,,lightweight,0.5
+000000460347.jpg,false_negative,car,,medium,,lightweight,0.5
+000000460347.jpg,false_negative,car,,small,,lightweight,0.5
+000000460347.jpg,false_negative,car,,medium,,lightweight,0.5
+000000460347.jpg,false_negative,person,,small,,lightweight,0.5
+000000543043.jpg,false_negative,bus,,large,,lightweight,0.5
+000000543043.jpg,false_negative,car,,medium,,lightweight,0.5
+000000184324.jpg,false_positive,person,0.5408,large,,lightweight,0.5
+000000184324.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000184324.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000184324.jpg,false_negative,car,,medium,,lightweight,0.5
+000000184324.jpg,false_negative,car,,small,,lightweight,0.5
+000000449996.jpg,false_negative,truck,,small,,lightweight,0.5
+000000449996.jpg,false_negative,truck,,small,,lightweight,0.5
+000000449996.jpg,false_negative,truck,,small,,lightweight,0.5
+000000449996.jpg,false_negative,truck,,small,,lightweight,0.5
+000000442456.jpg,false_negative,person,,medium,,lightweight,0.5
+000000442456.jpg,false_negative,car,,medium,,lightweight,0.5
+000000442456.jpg,false_negative,car,,medium,,lightweight,0.5
+000000442456.jpg,false_negative,car,,small,,lightweight,0.5
+000000442456.jpg,poor_localisation,car,0.5716,large,0.5778,lightweight,0.5
+000000436738.jpg,false_negative,car,,medium,,lightweight,0.5
+000000436738.jpg,false_negative,car,,medium,,lightweight,0.5
+000000436738.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000436738.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000460229.jpg,false_negative,truck,,large,,lightweight,0.5
+000000460229.jpg,false_negative,traffic light,,medium,,lightweight,0.5
+000000460229.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000054967.jpg,false_positive,car,0.8767,medium,,lightweight,0.5
+000000054967.jpg,false_positive,car,0.5333,small,,lightweight,0.5
+000000054967.jpg,false_negative,car,,medium,,lightweight,0.5
+000000054967.jpg,false_negative,car,,medium,,lightweight,0.5
+000000054967.jpg,false_negative,car,,small,,lightweight,0.5
+000000054967.jpg,false_negative,car,,small,,lightweight,0.5
+000000015338.jpg,false_negative,car,,small,,lightweight,0.5
+000000015338.jpg,false_negative,car,,small,,lightweight,0.5
+000000015338.jpg,false_negative,bus,,medium,,lightweight,0.5
+000000015338.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000015338.jpg,poor_localisation,bus,0.6192,medium,0.5982,lightweight,0.5
+000000293794.jpg,false_negative,person,,medium,,lightweight,0.5
+000000293794.jpg,false_negative,person,,small,,lightweight,0.5
+000000293794.jpg,false_negative,person,,small,,lightweight,0.5
+000000293794.jpg,false_negative,car,,small,,lightweight,0.5
+000000332318.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000332318.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000332318.jpg,false_negative,truck,,small,,lightweight,0.5
+000000332318.jpg,false_negative,truck,,small,,lightweight,0.5
+000000151820.jpg,false_positive,person,0.7922,medium,,lightweight,0.5
+000000151820.jpg,false_positive,person,0.715,large,,lightweight,0.5
+000000151820.jpg,false_positive,person,0.5245,medium,,lightweight,0.5
+000000151820.jpg,false_negative,person,,medium,,lightweight,0.5
+000000148719.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000148719.jpg,false_negative,truck,,small,,lightweight,0.5
+000000148719.jpg,false_negative,truck,,small,,lightweight,0.5
+000000148719.jpg,false_negative,person,,small,,lightweight,0.5
+000000393226.jpg,false_negative,car,,medium,,lightweight,0.5
+000000393226.jpg,false_negative,car,,medium,,lightweight,0.5
+000000393226.jpg,false_negative,car,,small,,lightweight,0.5
+000000393226.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000100283.jpg,false_negative,car,,medium,,lightweight,0.5
+000000100283.jpg,false_negative,car,,small,,lightweight,0.5
+000000100283.jpg,false_negative,car,,small,,lightweight,0.5
+000000100283.jpg,false_negative,car,,small,,lightweight,0.5
+000000459634.jpg,false_positive,person,0.5614,large,,lightweight,0.5
+000000459634.jpg,false_negative,motorcycle,,small,,lightweight,0.5
+000000459634.jpg,false_negative,person,,small,,lightweight,0.5
+000000365655.jpg,false_positive,truck,0.7711,large,,lightweight,0.5
+000000365655.jpg,false_negative,bus,,large,,lightweight,0.5
+000000365655.jpg,false_negative,person,,small,,lightweight,0.5
+000000087144.jpg,false_negative,car,,medium,,lightweight,0.5
+000000087144.jpg,false_negative,car,,medium,,lightweight,0.5
+000000128372.jpg,false_negative,person,,medium,,lightweight,0.5
+000000128372.jpg,false_negative,person,,small,,lightweight,0.5
+000000128372.jpg,false_negative,person,,small,,lightweight,0.5
+000000128372.jpg,false_negative,person,,small,,lightweight,0.5
+000000273617.jpg,false_negative,stop sign,,medium,,lightweight,0.5
+000000024027.jpg,false_negative,person,,small,,lightweight,0.5
+000000024027.jpg,false_negative,person,,small,,lightweight,0.5
+000000306437.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000306437.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000306437.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000306437.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000044590.jpg,false_negative,person,,small,,lightweight,0.5
+000000044590.jpg,false_negative,person,,small,,lightweight,0.5
+000000044590.jpg,false_negative,person,,small,,lightweight,0.5
+000000044590.jpg,false_negative,person,,small,,lightweight,0.5
+000000044590.jpg,poor_localisation,motorcycle,0.6615,medium,0.5384,lightweight,0.5
+000000044590.jpg,poor_localisation,person,0.6032,medium,0.6124,lightweight,0.5
+000000044590.jpg,poor_localisation,motorcycle,0.5089,medium,0.6013,lightweight,0.5
+000000580418.jpg,false_negative,car,,medium,,lightweight,0.5
+000000580418.jpg,false_negative,car,,medium,,lightweight,0.5
+000000580418.jpg,false_negative,car,,medium,,lightweight,0.5
+000000580418.jpg,false_negative,stop sign,,small,,lightweight,0.5
+000000259640.jpg,false_positive,person,0.6599,medium,,lightweight,0.5
+000000259640.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000259640.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000259640.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000259640.jpg,false_negative,person,,medium,,lightweight,0.5
+000000259640.jpg,poor_localisation,person,0.7597,medium,0.6224,lightweight,0.5
+000000494913.jpg,false_positive,person,0.5101,large,,lightweight,0.5
+000000494913.jpg,false_negative,person,,medium,,lightweight,0.5
+000000538364.jpg,false_negative,car,,medium,,lightweight,0.5
+000000538364.jpg,false_negative,person,,small,,lightweight,0.5
+000000538364.jpg,false_negative,person,,small,,lightweight,0.5
+000000538364.jpg,false_negative,person,,small,,lightweight,0.5
+000000102805.jpg,false_negative,car,,medium,,lightweight,0.5
+000000102805.jpg,false_negative,truck,,small,,lightweight,0.5
+000000102805.jpg,false_negative,car,,small,,lightweight,0.5
+000000102805.jpg,false_negative,car,,small,,lightweight,0.5
+000000457884.jpg,false_negative,car,,small,,lightweight,0.5
+000000457884.jpg,false_negative,car,,small,,lightweight,0.5
+000000457884.jpg,false_negative,motorcycle,,small,,lightweight,0.5
+000000457884.jpg,false_negative,truck,,medium,,lightweight,0.5
+000000306893.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000306893.jpg,false_negative,motorcycle,,medium,,lightweight,0.5
+000000306893.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000306893.jpg,false_negative,traffic light,,small,,lightweight,0.5
+000000142324.jpg,false_positive,person,0.7259,large,,lightweight,0.5
+000000142324.jpg,false_positive,person,0.5425,medium,,lightweight,0.5
+000000142324.jpg,false_negative,bicycle,,small,,lightweight,0.5
+000000142324.jpg,false_negative,bicycle,,medium,,lightweight,0.5
+000000142324.jpg,false_negative,person,,medium,,lightweight,0.5
+000000142324.jpg,false_negative,truck,,small,,lightweight,0.5
+000000190753.jpg,false_positive,person,0.8758,large,,lightweight,0.5
+000000190753.jpg,false_negative,person,,medium,,lightweight,0.5
+000000190753.jpg,false_negative,person,,medium,,lightweight,0.5
+000000190753.jpg,false_negative,person,,medium,,lightweight,0.5
+000000190753.jpg,false_negative,person,,small,,lightweight,0.5
+000000190753.jpg,poor_localisation,person,0.9517,medium,0.6476,lightweight,0.5
+000000166747.jpg,false_negative,person,,medium,,lightweight,0.5
+000000166747.jpg,false_negative,person,,medium,,lightweight,0.5
+000000166747.jpg,false_negative,person,,small,,lightweight,0.5
+000000166747.jpg,false_negative,person,,small,,lightweight,0.5
+000000466416.jpg,false_negative,car,,small,,lightweight,0.5
+000000466416.jpg,false_negative,car,,small,,lightweight,0.5
+000000466416.jpg,false_negative,car,,small,,lightweight,0.5
+000000466416.jpg,false_negative,car,,small,,lightweight,0.5

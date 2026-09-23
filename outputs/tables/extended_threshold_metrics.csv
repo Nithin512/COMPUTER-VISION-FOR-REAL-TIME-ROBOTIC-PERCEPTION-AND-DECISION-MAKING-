@@ -1,0 +1,13 @@
+model,model_label,model_family,threshold,is_best,total_gt,total_pred,matched,false_positives,false_negatives,precision,recall,f1,mean_iou,median_iou,mean_latency_ms,median_latency_ms,std_latency_ms,p95_latency_ms,fps,decision_accuracy,false_safe_decisions,unnecessary_stop_decisions,map50_subset,f1_ci95_low,f1_ci95_high
+high_accuracy,Faster R-CNN ResNet50-FPN v2,accuracy-oriented two-stage detector,0.5,no,1410,1840,1121,719,289,0.6092,0.795,0.6898,0.8281,0.8526,4932.07,4885.122,484.182,5862.396,0.2028,0.935,7,4,,,
+high_accuracy,Faster R-CNN ResNet50-FPN v2,accuracy-oriented two-stage detector,0.6,no,1410,1639,1086,553,324,0.6626,0.7702,0.7124,0.8311,0.8575,4932.07,4885.122,484.182,5862.396,0.2028,0.94,7,3,,,
+high_accuracy,Faster R-CNN ResNet50-FPN v2,accuracy-oriented two-stage detector,0.7,yes,1410,1425,1030,395,380,0.7228,0.7305,0.7266,0.8354,0.8615,4932.07,4885.122,484.182,5862.396,0.2028,0.925,10,3,0.7596,0.6968,0.752
+high_accuracy,Faster R-CNN ResNet50-FPN v2,accuracy-oriented two-stage detector,0.8,no,1410,1194,941,253,469,0.7881,0.6674,0.7227,0.8425,0.8687,4932.07,4885.122,484.182,5862.396,0.2028,0.91,14,3,,,
+high_accuracy,Faster R-CNN ResNet50-FPN v2,accuracy-oriented two-stage detector,0.9,no,1410,927,797,130,613,0.8598,0.5652,0.6821,0.8517,0.8803,4932.07,4885.122,484.182,5862.396,0.2028,0.88,20,3,,,
+high_accuracy,Faster R-CNN ResNet50-FPN v2,accuracy-oriented two-stage detector,0.95,no,1410,711,647,64,763,0.91,0.4589,0.6101,0.8632,0.8902,4932.07,4885.122,484.182,5862.396,0.2028,0.855,27,2,,,
+lightweight,SSDlite320 MobileNetV3-Large,lightweight single-shot detector,0.5,yes,1410,319,258,61,1152,0.8088,0.183,0.2984,0.8235,0.8547,105.045,101.44,22.456,154.585,9.5197,0.765,43,4,0.3535,0.2583,0.3443
+lightweight,SSDlite320 MobileNetV3-Large,lightweight single-shot detector,0.6,no,1410,272,231,41,1179,0.8493,0.1638,0.2747,0.8355,0.8641,105.045,101.44,22.456,154.585,9.5197,0.755,46,3,,,
+lightweight,SSDlite320 MobileNetV3-Large,lightweight single-shot detector,0.7,no,1410,221,193,28,1217,0.8733,0.1369,0.2367,0.8492,0.877,105.045,101.44,22.456,154.585,9.5197,0.735,50,3,,,
+lightweight,SSDlite320 MobileNetV3-Large,lightweight single-shot detector,0.8,no,1410,187,170,17,1240,0.9091,0.1206,0.2129,0.858,0.8802,105.045,101.44,22.456,154.585,9.5197,0.695,58,3,,,
+lightweight,SSDlite320 MobileNetV3-Large,lightweight single-shot detector,0.9,no,1410,133,130,3,1280,0.9774,0.0922,0.1685,0.8733,0.8962,105.045,101.44,22.456,154.585,9.5197,0.64,72,0,,,
+lightweight,SSDlite320 MobileNetV3-Large,lightweight single-shot detector,0.95,no,1410,104,103,1,1307,0.9904,0.073,0.1361,0.8763,0.8975,105.045,101.44,22.456,154.585,9.5197,0.56,88,0,,,
