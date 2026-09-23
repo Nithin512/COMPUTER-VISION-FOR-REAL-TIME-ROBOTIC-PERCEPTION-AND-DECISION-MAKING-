@@ -11,7 +11,7 @@ data/processed/
   cleaned metadata, converted labels, detections, and reproducible intermediate files
 ```
 
-Final Chapter Four findings must not be written until the required dataset or experiment outputs exist.
+
 
 Recommended dataset direction:
 
