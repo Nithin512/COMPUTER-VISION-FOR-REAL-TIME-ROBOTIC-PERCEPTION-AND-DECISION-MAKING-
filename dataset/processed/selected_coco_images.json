@@ -1,0 +1,175 @@
+{
+  "images": [
+    {
+      "license": 3,
+      "file_name": "000000181542.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000181542.jpg",
+      "height": 600,
+      "width": 640,
+      "date_captured": "2013-11-15 13:11:45",
+      "flickr_url": "http://farm9.staticflickr.com/8526/8559644284_775451f3ef_z.jpg",
+      "id": 181542
+    },
+    {
+      "license": 1,
+      "file_name": "000000122166.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000122166.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-14 11:22:58",
+      "flickr_url": "http://farm4.staticflickr.com/3021/2581636027_11c600d5d0_z.jpg",
+      "id": 122166
+    },
+    {
+      "license": 1,
+      "file_name": "000000357737.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000357737.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-15 04:23:02",
+      "flickr_url": "http://farm4.staticflickr.com/3267/2877115654_ec12cbc121_z.jpg",
+      "id": 357737
+    },
+    {
+      "license": 1,
+      "file_name": "000000356612.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000356612.jpg",
+      "height": 416,
+      "width": 640,
+      "date_captured": "2013-11-17 16:54:43",
+      "flickr_url": "http://farm3.staticflickr.com/2780/4444985182_6197c4ba62_z.jpg",
+      "id": 356612
+    },
+    {
+      "license": 4,
+      "file_name": "000000206487.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000206487.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-16 01:34:49",
+      "flickr_url": "http://farm9.staticflickr.com/8010/7686978996_27b7fdfdbf_z.jpg",
+      "id": 206487
+    },
+    {
+      "license": 3,
+      "file_name": "000000394206.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000394206.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-17 16:43:06",
+      "flickr_url": "http://farm4.staticflickr.com/3833/10168054123_eed5d06422_z.jpg",
+      "id": 394206
+    },
+    {
+      "license": 6,
+      "file_name": "000000136715.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000136715.jpg",
+      "height": 425,
+      "width": 640,
+      "date_captured": "2013-11-15 17:39:48",
+      "flickr_url": "http://farm9.staticflickr.com/8186/8366230936_7b5da87647_z.jpg",
+      "id": 136715
+    },
+    {
+      "license": 3,
+      "file_name": "000000424162.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000424162.jpg",
+      "height": 512,
+      "width": 640,
+      "date_captured": "2013-11-14 23:57:41",
+      "flickr_url": "http://farm4.staticflickr.com/3088/5793281956_2a15b2559c_z.jpg",
+      "id": 424162
+    },
+    {
+      "license": 6,
+      "file_name": "000000336232.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000336232.jpg",
+      "height": 427,
+      "width": 640,
+      "date_captured": "2013-11-15 10:52:20",
+      "flickr_url": "http://farm3.staticflickr.com/2553/5839792902_3e074fa6e9_z.jpg",
+      "id": 336232
+    },
+    {
+      "license": 1,
+      "file_name": "000000177934.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000177934.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-15 14:11:59",
+      "flickr_url": "http://farm7.staticflickr.com/6021/5994119446_b5ec8e1e76_z.jpg",
+      "id": 177934
+    },
+    {
+      "license": 1,
+      "file_name": "000000144300.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000144300.jpg",
+      "height": 427,
+      "width": 640,
+      "date_captured": "2013-11-15 16:13:34",
+      "flickr_url": "http://farm6.staticflickr.com/5550/9892048765_eefdf27946_z.jpg",
+      "id": 144300
+    },
+    {
+      "license": 6,
+      "file_name": "000000169996.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000169996.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-14 11:27:20",
+      "flickr_url": "http://farm3.staticflickr.com/2348/2400804792_d2e5da8232_z.jpg",
+      "id": 169996
+    },
+    {
+      "license": 1,
+      "file_name": "000000135410.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000135410.jpg",
+      "height": 640,
+      "width": 480,
+      "date_captured": "2013-11-17 10:27:45",
+      "flickr_url": "http://farm2.staticflickr.com/1039/1418871599_0eb113933c_z.jpg",
+      "id": 135410
+    },
+    {
+      "license": 2,
+      "file_name": "000000074058.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000074058.jpg",
+      "height": 427,
+      "width": 640,
+      "date_captured": "2013-11-15 00:43:40",
+      "flickr_url": "http://farm3.staticflickr.com/2673/3853738920_ac4ae553f7_z.jpg",
+      "id": 74058
+    },
+    {
+      "license": 4,
+      "file_name": "000000414510.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000414510.jpg",
+      "height": 640,
+      "width": 480,
+      "date_captured": "2013-11-15 03:55:44",
+      "flickr_url": "http://farm7.staticflickr.com/6011/5883783041_745340195b_z.jpg",
+      "id": 414510
+    },
+    {
+      "license": 2,
+      "file_name": "000000215723.jpg",
+      "coco_url": "http://images.cocodataset.org/val2017/000000215723.jpg",
+      "height": 480,
+      "width": 640,
+      "date_captured": "2013-11-16 14:38:10",
+      "flickr_url": "http://farm3.staticflickr.com/2794/4366396806_83e920de19_z.jpg",
+      "id": 215723
+    }
+  ],
+  "target_categories": [
+    "bicycle",
+    "bus",
+    "car",
+    "motorcycle",
+    "person",
+    "stop sign",
+    "traffic light",
+    "truck"
+  ],
+  "class_scope": "decision_only"
+}
